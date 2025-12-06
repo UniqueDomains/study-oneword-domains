@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .STUDY one-word domains still available to buy.
 
-This dataset contains 4,804 .STUDY one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,803 .STUDY one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.STUDY one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=study-oneword-domains&utm_content=description.top) (4,805) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,8 +21,8 @@ If you want to search & filters the complete database of [.STUDY one word domain
 
 | Domain           | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ---------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.study        | available | 70       | 38%    | 3      |           |         |         |
-| aaron.study      | available | 88       | 32%    | 5      |           |         |         |
+| aaa.study        | premium   | 70       | 38%    | 3      |           |         |         |
+| aaron.study      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.study  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.study      | premium   | 43       | 2%     | 5      |           |         |         |
 | abandoned.study  | premium   | 58       | 7%     | 9      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.STUDY one word domain
 | abatic.study     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.study    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.study   | available | 50       | 1%     | 8      |           |         |         |
-| abc.study        | available | 102      | 41%    | 3      |           |         |         |
+| abc.study        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.study  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.study  | premium   | 82       | 5%     | 9      |           |         |         |
 | abdominous.study | available | 56       | 1%     | 10     |           |         |         |
