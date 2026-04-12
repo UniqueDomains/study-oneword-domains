@@ -1,22 +1,22 @@
-# Available .STUDY One-Word Domains (5,622,033)
+# Available .STUDY One-Word Domains (9,640)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C640%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C622%2C033%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C642%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C640%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .study one-word domains from Unique Domains.
+Daily-updated dataset of available and resale .study one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 9,640-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **5,622,033 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,640 rows · **Live catalog:** 5,622,033 domains
+**Public extract:** 9,642 rows · **Live catalog:** 9,640 domains
 
-**Last updated:** 2026-04-10  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/study`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .STUDY one-word domain
 
 ### Files
 
-- `study.csv` — public CSV extract (9,640 rows)
-- `study.json` — public JSON extract (9,640 rows)
+- `study.csv` — public CSV extract (9,642 rows)
+- `study.json` — public JSON extract (9,642 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -65,25 +65,25 @@ print(df.head())
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
 | superstar.study  | available | $44.98    | —             | 80             | 24     | 9      | namecheap                                   |
-| play.study       | resell    | —         | —             | 84             | 50     | 4      | GoDaddy Online Services Cayman Islands Ltd. |
-| converse.study   | premium   | $62.50    | $62.50        | 64             | 73     | 8      | name.com                                    |
-| twentyone.study  | available | $44.98    | —             | 84             | 16     | 10     | namecheap                                   |
 | brain.study      | resell    | —         | —             | 70             | 49     | 5      | Spaceship, Inc.                             |
+| converse.study   | premium   | $62.50    | $62.50        | 64             | 73     | 8      | name.com                                    |
+| twentyone.study  | available | $44.98    | —             | 84             | 15     | 10     | namecheap                                   |
+| play.study       | resell    | —         | —             | 84             | 47     | 4      | GoDaddy Online Services Cayman Islands Ltd. |
 | nationwide.study | premium   | $62.50    | $62.50        | 76             | 66     | 10     | name.com                                    |
-| hotshot.study    | available | $44.98    | —             | 112            | 15     | 7      | namecheap                                   |
+| hotshot.study    | available | $44.98    | —             | 112            | 14     | 7      | namecheap                                   |
 | together.study   | resell    | —         | —             | 80             | 46     | 8      | Spaceship, Inc.                             |
 | seventeen.study  | premium   | $62.50    | $62.50        | 84             | 62     | 9      | name.com                                    |
-| actionable.study | available | $44.98    | —             | 88             | 15     | 10     | namecheap                                   |
-| god.study        | resell    | —         | —             | 90             | 44     | 3      | Sav.com LLC                                 |
+| actionable.study | available | $44.98    | —             | 88             | 14     | 10     | namecheap                                   |
+| view.study       | resell    | —         | —             | 94             | 37     | 4      | GoDaddy.com, LLC                            |
 | free.study       | premium   | $625      | $625          | 88             | 59     | 4      | name.com                                    |
-| twentytwo.study  | available | $44.98    | —             | 84             | 14     | 10     | namecheap                                   |
-| view.study       | resell    | —         | —             | 94             | 39     | 4      | GoDaddy.com, LLC                            |
+| moveon.study     | available | $44.98    | —             | 72             | 14     | 7      | namecheap                                   |
+| case.study       | resell    | —         | —             | 90             | 34     | 4      | NameSilo, LLC                               |
 | ace.study        | premium   | $625      | $625          | 88             | 57     | 3      | name.com                                    |
 | alamode.study    | available | $44.98    | —             | 96             | 13     | 9      | namecheap                                   |
-| case.study       | resell    | —         | —             | 90             | 34     | 4      | NameSilo, LLC                               |
-| data.study       | premium   | $1,300    | $1,300        | 70             | 56     | 4      | namecheap                                   |
-| moveon.study     | available | $44.98    | —             | 72             | 13     | 7      | namecheap                                   |
 | america.study    | resell    | —         | —             | 72             | 33     | 7      | GoDaddy.com, LLC                            |
+| data.study       | premium   | $1,300    | $1,300        | 70             | 56     | 4      | namecheap                                   |
+| twentytwo.study  | available | $44.98    | —             | 84             | 12     | 10     | namecheap                                   |
+| anything.study   | resell    | —         | —             | 76             | 32     | 8      | NameCheap, Inc.                             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,640-row public sample | 5,622,033 live domains                           |
+| 9,642-row public sample | 9,640 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .STUDY One-Word Domains*. Version 2026-04-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .STUDY One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
