@@ -1,10 +1,10 @@
-# Available .STUDY One-Word Domains (9,640)
+# Available .STUDY One-Word Domains (9,642)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C642%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C640%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C642%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -14,7 +14,7 @@ Daily-updated dataset of available and resale .study one-word domains from Uniqu
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,642 rows · **Live catalog:** 9,640 domains
+**Public extract:** 9,642 rows · **Live catalog:** 9,642 domains
 
 **Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/study`  
@@ -75,10 +75,10 @@ print(df.head())
 | seventeen.study  | premium   | $62.50    | $62.50        | 84             | 62     | 9      | name.com                                    |
 | actionable.study | available | $44.98    | —             | 88             | 14     | 10     | namecheap                                   |
 | view.study       | resell    | —         | —             | 94             | 37     | 4      | GoDaddy.com, LLC                            |
-| free.study       | premium   | $625      | $625          | 88             | 59     | 4      | name.com                                    |
+| ace.study        | premium   | $625      | $625          | 88             | 57     | 3      | name.com                                    |
 | moveon.study     | available | $44.98    | —             | 72             | 14     | 7      | namecheap                                   |
 | case.study       | resell    | —         | —             | 90             | 34     | 4      | NameSilo, LLC                               |
-| ace.study        | premium   | $625      | $625          | 88             | 57     | 3      | name.com                                    |
+| free.study       | premium   | $625      | $625          | 88             | 57     | 4      | name.com                                    |
 | alamode.study    | available | $44.98    | —             | 96             | 13     | 9      | namecheap                                   |
 | america.study    | resell    | —         | —             | 72             | 33     | 7      | GoDaddy.com, LLC                            |
 | data.study       | premium   | $1,300    | $1,300        | 70             | 56     | 4      | namecheap                                   |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,642-row public sample | 9,640 live domains                               |
+| 9,642-row public sample | 9,642 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
