@@ -1,10 +1,10 @@
-# Available .STUDY One-Word Domains (12,606)
+# Available .STUDY One-Word Domains (12,607)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C606%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C607%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .study one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,606 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,607 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,606 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,607 domains · **Median ask:** $97.46 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/study`  
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,15 @@ print(df.head())
 
 | domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| geton.study         | available | $50.98    | —             | 82             | 10     | 6      | namecheap |
+| dogsit.study        | available | $50.98    | —             | 96             | 2      | 6      | namecheap |
+| playin.study        | available | $50.98    | —             | 80             | 10     | 7      | namecheap |
+| pierogi.study       | available | $50.98    | —             | 82             | 7      | 7      | namecheap |
+| stirup.study        | available | $50.98    | —             | 82             | 3      | 7      | namecheap |
+| dogsick.study       | available | $50.98    | —             | 90             | 1      | 7      | namecheap |
+| rumcake.study       | available | $50.98    | —             | 81             | 3      | 8      | namecheap |
+| FabFour.study       | available | $2.19     | $38.99        | 82             | 3      | 8      | namesilo  |
+| surebet.study       | available | $50.98    | —             | 82             | 8      | 8      | namecheap |
 | keepthechange.study | available | $50.98    | —             | 46             | 59     | 15     | namecheap |
 | insight.study       | premium   | $62.50    | —             | 76             | 69     | 8      | name.com  |
 | whynot.study        | available | $50.98    | —             | 74             | 39     | 7      | namecheap |
@@ -75,15 +84,6 @@ print(df.head())
 | Tshirts.study       | available | $50.98    | —             | 70             | 20     | 8      | namecheap |
 | stories.study       | premium   | $62.50    | —             | 58             | 36     | 7      | name.com  |
 | ebooks.study        | available | $50.98    | —             | 62             | 19     | 6      | namecheap |
-| homes.study         | premium   | $70       | $70           | 86             | 34     | 5      | namecheap |
-| outofoffice.study   | available | $50.98    | —             | 61             | 19     | 13     | namecheap |
-| etc.study           | premium   | $625      | —             | 58             | 34     | 3      | name.com  |
-| bros.study          | available | $50.98    | —             | 58             | 19     | 4      | namecheap |
-| teams.study         | premium   | $62.50    | —             | 62             | 32     | 5      | name.com  |
-| techsupport.study   | available | $50.98    | —             | 76             | 18     | 12     | namecheap |
-| slots.study         | premium   | $116      | $116          | 49             | 31     | 5      | namesilo  |
-| solarenergy.study   | available | $50.98    | —             | 88             | 16     | 12     | namecheap |
-| inspiration.study   | premium   | $62.50    | —             | 88             | 30     | 11     | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,606 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,607 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+These domains are one-word names on the .study extension. The set spans dictionary-style words, action words, and short brandable terms such as Acup.study, Matcha.study, Popup.study, and Useit.study. With a median ask of 97.46, many names may look inexpensive upfront, so the better comparison is whether the word is easy to remember, clearly relevant to learning or research, and unlikely to create trademark friction. Names like Chanel.study or Trex.study deserve extra caution for rights risk. When choosing among these domains, weigh price against clarity, resale flexibility, and whether the term still makes sense on a .study ending.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- One-word .study domains with broad naming styles
+- Median ask across this selection is 97.46
+- Best picks fit education, learning, or research use
+- Check trademark risk on branded terms before buying
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .STUDY One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .STUDY One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
