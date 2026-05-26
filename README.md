@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .study one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,610 domains · **Median ask:** $97.44 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/study`  
 **Best for:** founders, investors, studios
 
@@ -70,9 +70,9 @@ print(df.head())
 | pierogi.study       | available | $50.98    | —             | 82             | 7      | 7      | namecheap |
 | stirup.study        | available | $50.98    | —             | 82             | 3      | 7      | namecheap |
 | dogsick.study       | available | $50.98    | —             | 90             | 1      | 7      | namecheap |
-| rumcake.study       | available | $50.98    | —             | 81             | 3      | 8      | namecheap |
+| rumcake.study       | available | $50.98    | —             | 81             | 2      | 8      | namecheap |
 | FabFour.study       | available | $2.19     | $38.99        | 82             | 3      | 8      | namesilo  |
-| surebet.study       | available | $50.98    | —             | 82             | 8      | 8      | namecheap |
+| surebet.study       | available | $50.98    | —             | 82             | 7      | 8      | namecheap |
 | keepthechange.study | available | $50.98    | —             | 46             | 59     | 15     | namecheap |
 | insight.study       | premium   | $62.50    | —             | 76             | 69     | 8      | name.com  |
 | whynot.study        | available | $50.98    | —             | 74             | 39     | 7      | namecheap |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .STUDY One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .STUDY One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
