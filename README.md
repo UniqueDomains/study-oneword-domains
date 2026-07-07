@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .study one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,610 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,610 domains · **Median ask:** $97.44 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,610 domains · **Median ask:** $113.52 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/study`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/study`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .STUDY one-word domain
 
 ### Files
 
-- `study.csv` — public CSV extract (1,000 rows)
-- `study.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `study.csv`, public CSV extract (1,000 rows)
+- `study.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| geton.study         | available | $50.98    | —             | 82             | 10     | 6      | namecheap |
-| dogsit.study        | available | $50.98    | —             | 96             | 2      | 6      | namecheap |
-| playin.study        | available | $50.98    | —             | 80             | 10     | 7      | namecheap |
-| pierogi.study       | available | $50.98    | —             | 82             | 7      | 7      | namecheap |
-| stirup.study        | available | $50.98    | —             | 82             | 3      | 7      | namecheap |
-| dogsick.study       | available | $50.98    | —             | 90             | 1      | 7      | namecheap |
-| rumcake.study       | available | $50.98    | —             | 81             | 2      | 8      | namecheap |
-| FabFour.study       | available | $2.19     | $38.99        | 82             | 3      | 8      | namesilo  |
-| surebet.study       | available | $50.98    | —             | 82             | 7      | 8      | namecheap |
-| keepthechange.study | available | $50.98    | —             | 46             | 59     | 15     | namecheap |
-| insight.study       | premium   | $62.50    | —             | 76             | 69     | 8      | name.com  |
-| whynot.study        | available | $50.98    | —             | 74             | 39     | 7      | namecheap |
-| makers.study        | premium   | $53.92    | $53.92        | 62             | 67     | 6      | namesilo  |
-| commonground.study  | available | $50.98    | —             | 74             | 28     | 13     | namecheap |
-| cars.study          | premium   | $625      | —             | 66             | 47     | 4      | name.com  |
-| webshop.study       | available | $50.98    | —             | 76             | 22     | 8      | namecheap |
-| robots.study        | premium   | $53.92    | $53.92        | 62             | 47     | 6      | namesilo  |
-| Tshirts.study       | available | $50.98    | —             | 70             | 20     | 8      | namecheap |
-| stories.study       | premium   | $62.50    | —             | 58             | 36     | 7      | name.com  |
-| ebooks.study        | available | $50.98    | —             | 62             | 19     | 6      | namecheap |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| cali.study   | available | $2.19     | $38.99        | high           | low    | 4      | namesilo  |
+| ago.study    | premium   | $625      | $625          | medium         | low    | 3      | name.com  |
+| HIPAA.study  | available | $2.19     | $38.99        | medium         | low    | 5      | namesilo  |
+| aid.study    | premium   | $625      | —             | medium         | low    | 3      | name.com  |
+| Oxfam.study  | available | $2.19     | $38.99        | high           | low    | 5      | namesilo  |
+| air.study    | premium   | $650      | $650          | high           | medium | 3      | namecheap |
+| aujus.study  | available | $2.19     | $38.99        | medium         | low    | 6      | namesilo  |
+| ala.study    | premium   | $625      | —             | high           | low    | 3      | name.com  |
+| hitup.study  | available | $2.19     | $38.99        | high           | low    | 6      | namesilo  |
+| and.study    | premium   | $625      | —             | high           | medium | 3      | name.com  |
+| howdo.study  | available | $2.19     | $38.99        | medium         | low    | 6      | namesilo  |
+| any.study    | premium   | $625      | —             | high           | medium | 3      | name.com  |
+| ifnot.study  | available | $2.19     | $38.99        | medium         | low    | 6      | namesilo  |
+| apt.study    | premium   | $625      | —             | high           | low    | 3      | name.com  |
+| letgo.study  | available | $2.19     | $38.99        | high           | low    | 6      | namesilo  |
+| axe.study    | premium   | $625      | —             | medium         | low    | 3      | name.com  |
+| tieup.study  | available | $50.98    | —             | low            | low    | 6      | namecheap |
+| BBC.study    | premium   | $625      | —             | high           | medium | 3      | name.com  |
+| algore.study | available | $2.19     | $38.99        | high           | low    | 7      | namesilo  |
+| bce.study    | premium   | $625      | —             | medium         | low    | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are one-word names on the .study extension. The set spans dictionary-style words, action words, and short brandable terms such as Acup.study, Matcha.study, Popup.study, and Useit.study. With a median ask of 97.46, many names may look inexpensive upfront, so the better comparison is whether the word is easy to remember, clearly relevant to learning or research, and unlikely to create trademark friction. Names like Chanel.study or Trex.study deserve extra caution for rights risk. When choosing among these domains, weigh price against clarity, resale flexibility, and whether the term still makes sense on a .study ending.
+The .study extension leans naturally toward education, research, and learning brands, and this selection reflects that range. Some entries are clean single words such as leaf.study and finals.study, while others are short compound phrases like appreciation.study, preferences.study, and jollyalong.study. With 12,610 domains and a median asking price of $113.52, the set spans both budget-friendly picks and higher-value names, giving room to compare word length, clarity, and topical fit before settling on one.
 
-- One-word .study domains with broad naming styles
-- Median ask across this selection is 97.46
-- Best picks fit education, learning, or research use
-- Check trademark risk on branded terms before buying
+- 12,610 .study domains with a median ask of $113.52
+- Mix of one-word names and short compound phrases
+- Strong fit for education, research, and learning brands
+- Updated daily to reflect current .study pricing
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .STUDY One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .STUDY One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
