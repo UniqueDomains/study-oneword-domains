@@ -1,10 +1,10 @@
-# Available .STUDY One-Word Domains (18,171)
+# Available .STUDY One-Word Domains (18,594)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-18%2C171%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-18%2C594%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .study one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **18,171 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **18,594 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 18,171 domains · **Median ask:** $83.81 · **High-demand under $2,500:** 27
+**Public extract:** 1,000 rows · **Live catalog:** 18,594 domains · **Median ask:** $82.81 · **High-demand under $2,500:** 27
 
-**Last updated:** 2026-08-21
+**Last updated:** 2026-08-22
 **Canonical page:** `https://unique.domains/domains/tld/study`
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,6 @@ print(df.head())
 
 | domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| half.study | premium   | $53.92    | $53.92        | high           | low    | 4      | namesilo  |
 | asat.study | available | $1.98     | $50.98        | low            | low    | 4      | namecheap |
 | ago.study  | premium   | $625      | $625          | medium         | low    | 3      | name.com  |
 | awol.study | available | $1.98     | $50.98        | low            | low    | 4      | namecheap |
@@ -84,6 +83,7 @@ print(df.head())
 | xcvi.study | available | $1.98     | $50.98        | low            | low    | 4      | namecheap |
 | axe.study  | premium   | $625      | —             | medium         | low    | 3      | name.com  |
 | xxiv.study | available | $1.98     | $50.98        | low            | low    | 4      | namecheap |
+| BBC.study  | premium   | $625      | —             | high           | medium | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 18,171 live domains                        |
+| 1,000-row public sample | 18,594 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 27 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .STUDY One-Word Domains*. Version 2026-08-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .STUDY One-Word Domains*. Version 2026-08-22. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
