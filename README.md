@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .study one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 22,831 domains · **Median ask:** $75.68 · **High-demand under $2,500:** 34
 
-**Last updated:** 2026-09-11
+**Last updated:** 2026-09-12
 **Canonical page:** `https://unique.domains/domains/tld/study`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| asat.study | available | $1.98     | $50.98        | low            | low    | 4      | namecheap |
-| ago.study  | premium   | $625      | $625          | medium         | low    | 3      | name.com  |
-| awol.study | available | $1.98     | $50.98        | low            | low    | 4      | namecheap |
-| aid.study  | premium   | $625      | —             | medium         | low    | 3      | name.com  |
-| cali.study | available | $2.19     | $38.99        | high           | low    | 4      | namesilo  |
-| air.study  | premium   | $650      | $650          | high           | medium | 3      | namecheap |
-| eyry.study | available | $1.98     | $50.98        | low            | low    | 4      | namecheap |
-| ala.study  | premium   | $625      | —             | high           | low    | 3      | name.com  |
-| liii.study | available | $1.98     | $50.98        | low            | low    | 4      | namecheap |
-| and.study  | premium   | $625      | —             | high           | medium | 3      | name.com  |
-| lxvi.study | available | $1.98     | $50.98        | low            | low    | 4      | namecheap |
-| any.study  | premium   | $625      | —             | high           | medium | 3      | name.com  |
-| otic.study | available | $1.98     | $50.98        | low            | low    | 4      | namecheap |
-| apt.study  | premium   | $625      | —             | high           | low    | 3      | name.com  |
-| taal.study | available | $1.98     | $50.98        | low            | low    | 4      | namecheap |
-| aug.study  | premium   | $625      | $625          | low            | low    | 3      | name.com  |
-| xcvi.study | available | $1.98     | $50.98        | low            | low    | 4      | namecheap |
-| axe.study  | premium   | $625      | —             | medium         | low    | 3      | name.com  |
-| xxiv.study | available | $1.98     | $50.98        | low            | low    | 4      | namecheap |
-| BBC.study  | premium   | $625      | —             | high           | medium | 3      | name.com  |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| half.study      | premium   | $53.92    | $53.92        | high           | low    | 4      | namesilo  |
+| period.study    | premium   | $53.92    | $53.92        | high           | low    | 6      | namesilo  |
+| jesus.study     | premium   | $53.92    | $53.92        | high           | medium | 5      | namesilo  |
+| something.study | premium   | $62.50    | —             | high           | low    | 9      | name.com  |
+| what.study      | premium   | $53.92    | $53.92        | high           | low    | 4      | namesilo  |
+| asat.study      | available | $1.98     | $50.98        | low            | low    | 4      | namecheap |
+| ago.study       | premium   | $625      | $625          | medium         | low    | 3      | name.com  |
+| awol.study      | available | $1.98     | $50.98        | low            | low    | 4      | namecheap |
+| aid.study       | premium   | $625      | —             | medium         | low    | 3      | name.com  |
+| cali.study      | available | $2.19     | $38.99        | high           | low    | 4      | namesilo  |
+| air.study       | premium   | $650      | $650          | high           | medium | 3      | namecheap |
+| eyry.study      | available | $1.98     | $50.98        | low            | low    | 4      | namecheap |
+| ala.study       | premium   | $625      | —             | high           | low    | 3      | name.com  |
+| liii.study      | available | $1.98     | $50.98        | low            | low    | 4      | namecheap |
+| and.study       | premium   | $625      | —             | high           | medium | 3      | name.com  |
+| lxvi.study      | available | $1.98     | $50.98        | low            | low    | 4      | namecheap |
+| any.study       | premium   | $625      | —             | high           | medium | 3      | name.com  |
+| otic.study      | available | $1.98     | $50.98        | low            | low    | 4      | namecheap |
+| apt.study       | premium   | $625      | —             | high           | low    | 3      | name.com  |
+| taal.study      | available | $1.98     | $50.98        | low            | low    | 4      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .STUDY One-Word Domains*. Version 2026-09-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .STUDY One-Word Domains*. Version 2026-09-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
