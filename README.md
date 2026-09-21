@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .study one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 29,692 domains · **Median ask:** $68.02 · **High-demand under $2,500:** 29
 
-**Last updated:** 2026-09-20
+**Last updated:** 2026-09-21
 **Canonical page:** `https://unique.domains/domains/tld/study`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,7 @@ print(df.head())
 
 | domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| half.study | premium   | $53.92    | $53.92        | high           | low    | 4      | namesilo  |
 | asat.study | available | $1.98     | $50.98        | low            | low    | 4      | namecheap |
 | ago.study  | premium   | $625      | $625          | medium         | low    | 3      | name.com  |
 | awol.study | available | $1.98     | $50.98        | low            | low    | 4      | namecheap |
@@ -83,7 +84,6 @@ print(df.head())
 | xcvi.study | available | $1.98     | $50.98        | low            | low    | 4      | namecheap |
 | axe.study  | premium   | $625      | —             | medium         | low    | 3      | name.com  |
 | xxiv.study | available | $1.98     | $50.98        | low            | low    | 4      | namecheap |
-| bce.study  | premium   | $625      | —             | medium         | low    | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .STUDY One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .STUDY One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
