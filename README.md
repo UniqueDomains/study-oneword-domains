@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .study one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 32,452 domains · **Median ask:** $66.78 · **High-demand under $2,500:** 28
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/study`
 **Best for:** founders, investors, studios
 
@@ -68,6 +68,7 @@ print(df.head())
 | period.study    | premium   | $53.92    | $53.92        | high           | low    | 6      | namesilo  |
 | jesus.study     | premium   | $53.92    | $53.92        | high           | medium | 5      | namesilo  |
 | something.study | premium   | $62.50    | —             | high           | low    | 9      | name.com  |
+| what.study      | premium   | $53.92    | $53.92        | high           | low    | 4      | namesilo  |
 | asat.study      | available | $1.98     | $50.98        | low            | low    | 4      | namecheap |
 | ago.study       | premium   | $650      | $650          | low            | low    | 3      | namecheap |
 | awol.study      | available | $1.98     | $50.98        | low            | low    | 4      | namecheap |
@@ -83,7 +84,6 @@ print(df.head())
 | otic.study      | available | $1.98     | $50.98        | low            | low    | 4      | namecheap |
 | apt.study       | premium   | $650      | $650          | low            | low    | 3      | namecheap |
 | taal.study      | available | $1.98     | $50.98        | low            | low    | 4      | namecheap |
-| aug.study       | premium   | $625      | $625          | low            | low    | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .STUDY One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .STUDY One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
