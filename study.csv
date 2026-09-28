@@ -1,10 +1,10 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 3c0391fb-0b6b-4f9d-8c22-6494e420001f,bug.study,premium,625,,high,low,3,name.com,,,
-079f8649-3ba7-410d-ad5f-57ba0e835b89,update.study,premium,116,116,high,low,7,namesilo,,,
+079f8649-3ba7-410d-ad5f-57ba0e835b89,update.study,premium,109.69,109.69,high,low,7,porkbun,,,28/09/2026 03:15
 ba258acd-2a56-4c3a-90ad-c64c23579147,precarious.study,premium,53.92,53.92,medium,low,10,namesilo,,,08/09/2026 01:44
 1ba1fcfb-c7bb-454b-af49-a75c23bfaa98,postmodern.study,premium,53.92,53.92,high,low,10,namesilo,,,09/09/2026 00:29
 ef75334c-61cb-4c84-8e74-f7c2d347110f,cincinnati.study,premium,53.92,53.92,high,low,10,namesilo,,,
-cd64f015-bd77-4bc0-a1a8-ec2bc21d944f,webby.study,available,1.98,50.98,high,low,5,namecheap,,,03/09/2026 16:08
+cd64f015-bd77-4bc0-a1a8-ec2bc21d944f,webby.study,available,1.98,50.98,medium,low,5,namecheap,,,03/09/2026 16:08
 9e54be5a-c082-4558-86ae-e4cded0078ba,jim.study,premium,625,625,high,low,3,name.com,,,
 b829170a-c897-4b94-befe-51ce7c2c3fe5,diseased.study,premium,53.92,53.92,medium,low,8,namesilo,,,14/08/2026 10:08
 43aa76ef-b6f4-4a9f-a1fd-d8279eedb124,molto.study,available,1.98,50.98,medium,low,5,namecheap,,,15/09/2026 15:19
@@ -13,7 +13,7 @@ c099882b-072f-4df4-a569-5ab69308a7f8,manchurian.study,available,1.98,50.98,high,
 5187541a-6dce-4907-9123-ffe952efac01,secure.study,premium,116,116,high,medium,6,namesilo,,,25/09/2026 03:56
 107c02b7-2f05-4528-92f3-1bb98dcd3b77,oakley.study,premium,53.92,53.92,high,medium,6,namesilo,,,19/09/2026 10:26
 22158156-4504-46b7-8817-60c159de9649,nut.study,premium,640,640,high,low,3,namesilo,,,10/09/2026 00:12
-9c25910e-ff73-4bb4-8013-eb8d406b3c5b,epidermal.study,available,1.99,50.99,high,low,9,name.com,,,13/08/2026 13:06
+9c25910e-ff73-4bb4-8013-eb8d406b3c5b,epidermal.study,available,1.99,50.99,medium,low,9,name.com,,,13/08/2026 13:06
 8b5daf3d-f6d5-4801-914c-d6fc764fb1f0,round.study,premium,116,116,high,low,5,namesilo,,,09/08/2026 05:09
 c87bd472-168e-4a19-adbd-ec00c50db355,bextra.study,available,2.19,38.99,medium,low,6,namesilo,,,23/09/2026 12:09
 4533ccdf-a4e3-4103-9195-249212c2ff27,bared.study,premium,53.92,53.92,medium,low,5,namesilo,,,22/09/2026 17:24
@@ -21,14 +21,14 @@ c87bd472-168e-4a19-adbd-ec00c50db355,bextra.study,available,2.19,38.99,medium,lo
 40629c2b-5e77-4b13-8741-09b08c369c5e,offenses.study,premium,53.92,53.92,low,low,8,namesilo,,,20/09/2026 10:35
 37fe2746-b4e9-4ba7-8856-c23e943c3712,charts.study,premium,53.92,53.92,high,low,6,namesilo,,,18/09/2026 23:12
 7818132f-9bcc-440c-8e09-bec1c0fa000a,braised.study,available,1.98,50.98,medium,low,7,namecheap,,,11/08/2026 01:55
-0405732b-0924-4c27-9a6e-5df99e99a108,content.study,premium,65,65,high,medium,7,namecheap,,,25/09/2026 08:56
+0405732b-0924-4c27-9a6e-5df99e99a108,content.study,premium,65,65,high,medium,7,namecheap,,,28/09/2026 03:01
 b9c981d1-c7d6-4aba-90a9-656b8e3e3177,herds.study,premium,65,65,medium,low,5,namecheap,,,19/09/2026 20:40
 b745472e-833c-4bc0-bbbf-6b76eda38436,gaelic.study,premium,625,625,high,low,6,name.com,,,11/08/2026 23:40
 9a133452-019d-48e8-bff6-7ddbdd25d6bc,diluted.study,premium,53.92,53.92,medium,low,7,namesilo,,,14/08/2026 07:45
 2d408f54-cb48-4e25-af43-604d8d3ef453,test.study,premium,640,640,high,high,4,namesilo,,,23/09/2026 08:26
 20fc07f9-34e1-42ab-8c0a-53362faa9a3b,dawning.study,premium,53.92,53.92,high,low,7,namesilo,,,11/09/2026 02:03
 d106f13d-9dba-4232-9c8c-8e6a606a4d5e,tical.study,available,1.98,50.98,medium,low,5,namecheap,,,21/09/2026 18:48
-de331073-1153-4de3-9a3a-4fa028a9f495,hanging.study,premium,53.92,53.92,high,low,7,namesilo,,,25/09/2026 04:41
+de331073-1153-4de3-9a3a-4fa028a9f495,hanging.study,premium,53.92,53.92,medium,low,7,namesilo,,,25/09/2026 04:41
 0babc692-485e-465c-9ae7-3d8bf02d220a,succinct.study,premium,53.92,53.92,high,low,8,namesilo,,,23/09/2026 17:07
 b61ae136-646b-458d-8b34-ff375540bf62,classify.study,premium,65,65,high,low,8,namecheap,,,24/09/2026 15:20
 a8e0524b-0de4-4864-8e36-81991755d684,drama.study,premium,1107,1107,high,low,5,namesilo,,,24/09/2026 23:50
@@ -38,6 +38,7 @@ a8e0524b-0de4-4864-8e36-81991755d684,drama.study,premium,1107,1107,high,low,5,na
 1e643e63-1159-4594-b46b-3f53bd25b69f,bruckner.study,premium,65,65,medium,low,8,namecheap,,,19/09/2026 15:26
 ac4c7e2e-8b45-48b8-81a9-f4c0d39f9047,cybernetic.study,premium,65,65,high,low,10,namecheap,,,19/09/2026 11:38
 83bc681e-d02b-47bb-a6d2-caffbe223c54,tastefully.study,premium,53.92,53.92,medium,low,10,namesilo,,,16/09/2026 07:59
+383765d9-eeb3-474e-a521-21237cb120ce,submit.study,premium,62.5,62.5,high,low,6,name.com,,,27/09/2026 16:26
 40910392-17dc-4e86-9dca-0901d8fe1859,unitarian.study,premium,53.92,53.92,high,low,9,namesilo,,,12/09/2026 13:56
 654787f6-8413-4fc8-ac82-8a9611942b5c,shiny.study,premium,116,116,high,low,5,namesilo,,,23/09/2026 11:51
 f4d2d3ee-ab48-4828-b523-43946c7dca84,unimodal.study,premium,53.92,53.92,medium,low,8,namesilo,,,12/09/2026 13:07
@@ -47,6 +48,7 @@ c688a711-d021-4107-8bfc-961faa3450fa,atkins.study,premium,53.92,53.92,high,low,6
 ddc35d3d-7622-43c0-9c3d-2b9cc50e1c61,juridic.study,premium,53.92,53.92,medium,low,7,namesilo,,,22/08/2026 14:42
 ec45f532-8f89-4782-90f0-3ade6262f24f,clubable.study,available,1.98,50.98,medium,low,8,namecheap,,,12/08/2026 12:57
 3923abf0-65d8-4d95-87be-9daa48793251,messenger.study,premium,116,116,high,low,9,namesilo,,,24/09/2026 18:45
+7957882e-7937-429c-9ced-24a3410c08c8,mainz.study,premium,116,116,high,low,5,namesilo,,,28/09/2026 03:51
 6f39404a-02d3-4b9a-b7de-0a18f51b57d9,unlabeled.study,premium,53.92,53.92,medium,low,9,namesilo,,,12/09/2026 14:28
 80b119dd-f9c6-4cd1-b03b-618205c856e7,alters.study,premium,65,65,medium,low,6,namecheap,,,20/09/2026 13:23
 bcb158c1-a421-4832-bb9a-8cd064d0752a,quintet.study,premium,53.92,53.92,high,low,7,namesilo,,,
@@ -55,13 +57,13 @@ e4d30c3d-4919-4583-b57e-d118f1f630a0,pukka.study,available,1.98,50.98,medium,low
 2b865b1f-48b0-44c9-a322-281edb79fff1,cap.study,premium,625,,high,low,3,name.com,,,
 039df1ab-dfc4-4e88-bbeb-cd98c29e8af5,pinnated.study,available,1.98,50.98,high,medium,8,namecheap,,,08/09/2026 19:49
 296ce0ce-7971-4c54-8fe2-9a61833b2068,possibly.study,premium,62.5,,high,low,8,name.com,,,
-0785488d-11c5-481e-9643-02a0d3b3d970,unassuming.study,premium,62.5,,high,low,10,name.com,,,
+0785488d-11c5-481e-9643-02a0d3b3d970,unassuming.study,premium,53.92,53.92,high,low,10,namesilo,,,27/09/2026 13:26
 0452954f-42b7-4aa9-869e-78d77a84dcc9,attract.study,premium,53.92,53.92,high,low,7,namesilo,,,
 712258eb-0caf-4a16-8296-06dca20f0ddc,recipient.study,premium,53.92,53.92,high,low,9,namesilo,,,
 20d557c3-78e3-4abb-a8a2-305fec64d305,grains.study,premium,62.5,,high,low,6,name.com,,,
 be42c15f-18e0-43e1-a63c-585fc8d1b43b,unveiled.study,available,1.98,50.98,high,low,8,namecheap,,,12/09/2026 22:05
 cf5d2ece-f23c-4838-befc-eee62fc477de,cive.study,available,1.98,50.98,medium,low,4,namecheap,,,18/09/2026 11:31
-da53b3eb-c29e-4e5c-87be-f9b391da219f,cropped.study,premium,53.92,53.92,high,low,7,namesilo,,,13/08/2026 07:53
+da53b3eb-c29e-4e5c-87be-f9b391da219f,cropped.study,premium,53.92,53.92,medium,low,7,namesilo,,,13/08/2026 07:53
 0d9d0f64-da85-41f6-96ec-66ee04b448b6,respite.study,premium,53.92,53.92,high,low,7,namesilo,,,16/09/2026 14:06
 d46766d0-d263-4e4d-ad59-b2a70f29286b,richly.study,premium,53.92,53.92,high,low,6,namesilo,,,13/09/2026 19:38
 283584b3-28a8-46a0-9688-9c46bb2daae6,tripartite.study,premium,53.92,53.92,medium,low,10,namesilo,,,11/09/2026 14:23
@@ -74,7 +76,8 @@ e37d9942-e681-4fa5-b3c8-944eb84df732,grammar.study,premium,1250,,high,low,7,name
 d4634636-1dd9-49bc-8701-80cbec38a735,sixer.study,available,1.98,50.98,medium,low,5,namecheap,,,
 970cfb35-e8df-4423-be80-4813e1713a5e,shambles.study,premium,53.92,53.92,medium,low,8,namesilo,,,16/09/2026 14:17
 4df314b4-f468-4cc3-8054-8481e71cc22c,groovy.study,available,1.98,50.98,high,low,6,namecheap,,,08/08/2026 12:35
-392ba1e5-c1f4-4bbe-97ad-ea3397df296c,unbecoming.study,premium,53.92,53.92,high,low,10,namesilo,,,22/08/2026 02:19
+eb5fb734-0b71-4f27-aba0-808d58db5b15,joanne.study,premium,51.95,51.95,high,low,6,spaceship,,,27/09/2026 19:17
+392ba1e5-c1f4-4bbe-97ad-ea3397df296c,unbecoming.study,premium,53.92,53.92,medium,low,10,namesilo,,,22/08/2026 02:19
 02cf8585-9228-4884-8736-b4cc0853eb3f,thorium.study,premium,53.92,53.92,high,low,7,namesilo,,,21/09/2026 00:04
 43abcdd9-8c68-4dee-ba5e-87ed18b007bd,slugger.study,premium,62.5,62.5,high,low,7,name.com,,,22/09/2026 14:18
 bf402eba-2494-473f-b1e2-7b0315b42044,sprinkle.study,premium,65,65,high,low,8,namecheap,,,15/09/2026 20:15
@@ -83,11 +86,12 @@ bf402eba-2494-473f-b1e2-7b0315b42044,sprinkle.study,premium,65,65,high,low,8,nam
 3232ee93-f6c1-4db8-855e-e62207ad694a,greatly.study,premium,62.5,,high,low,7,name.com,,,
 9f72ca0b-f826-4406-942c-6fef4b437921,unleavened.study,premium,53.92,53.92,medium,low,10,namesilo,,,12/09/2026 14:46
 7df7fa91-30d8-42ae-bdd8-75fd8b2da250,bakeshop.study,available,1.98,50.98,high,low,8,namecheap,,,21/09/2026 20:10
-a62847d5-4f24-4f56-a4ef-e5378da1b469,northerly.study,premium,65,65,high,low,9,namecheap,,,03/09/2026 21:23
+a62847d5-4f24-4f56-a4ef-e5378da1b469,northerly.study,premium,65,65,medium,low,9,namecheap,,,03/09/2026 21:23
 7395fb1a-e342-4daf-9b3a-5dff01e5ff12,airmailer.study,available,1.98,50.98,medium,low,9,namecheap,,,17/09/2026 23:15
 a975fbeb-59e9-4214-a5af-f521ca8eadd0,tectonics.study,premium,53.92,53.92,medium,low,9,namesilo,,,20/09/2026 02:14
 8102ef44-7151-4d33-9f64-6714a85d0e14,mandioca.study,available,2.19,38.99,medium,low,8,namesilo,,,23/09/2026 22:54
 28e8a7df-bd33-4eff-a91c-a3505ab14831,cultivated.study,premium,53.92,53.92,high,low,10,namesilo,,,13/08/2026 10:14
+b72f4483-f850-47e9-a189-19531d6b9da4,goddess.study,premium,51.95,51.95,high,low,7,spaceship,,,27/09/2026 13:50
 62864289-9d0a-45d1-88ff-666de41417eb,adaptation.study,premium,53.92,53.92,high,low,10,namesilo,,,17/09/2026 06:27
 07b17822-fc56-4a4a-a3c2-d220bf7e710f,seaworthy.study,premium,53.92,53.92,high,low,9,namesilo,,,10/09/2026 01:05
 c8ad9e97-2fe8-41a4-a0f3-8a8538221beb,implicitly.study,premium,53.92,53.92,medium,low,10,namesilo,,,15/09/2026 02:29
@@ -96,7 +100,7 @@ a0b15564-85cc-4e71-9f97-2891298858c5,ascender.study,premium,53.92,53.92,high,low
 e5e70cb4-f1c1-4623-abc2-d27b9f33208f,estimators.study,premium,53.92,53.92,medium,low,10,namesilo,,,20/09/2026 23:34
 18a80fef-7bca-4cb7-a43a-c30181edf236,amused.study,premium,53.92,53.92,high,low,6,namesilo,,,
 d68ee746-b294-4c4f-86a5-0781f03d6648,brittany.study,premium,53.92,53.92,high,low,8,namesilo,,,27/09/2026 03:23
-f33d9c39-99a4-40f9-85e6-405d38f72013,zama.study,premium,116,116,high,low,4,namesilo,,,22/09/2026 16:21
+f33d9c39-99a4-40f9-85e6-405d38f72013,zama.study,premium,116,116,medium,low,4,namesilo,,,22/09/2026 16:21
 ece0f1e7-68d2-432d-88ec-39a220ba8263,birdhouse.study,premium,250,250,high,low,9,name.com,,,23/09/2026 20:39
 55be8ce6-e034-4eb4-856d-493131763d4c,fasten.study,premium,53.92,53.92,high,low,6,namesilo,,,
 f4de0ae6-7dee-4af9-944e-c0747a9d43fc,dewy.study,premium,53.92,53.92,medium,low,4,namesilo,,,09/08/2026 06:51
@@ -107,20 +111,22 @@ f4de0ae6-7dee-4af9-944e-c0747a9d43fc,dewy.study,premium,53.92,53.92,medium,low,4
 140b2dc4-78e8-46bf-9504-090927670ce1,saame.study,available,1.98,50.98,high,medium,5,namecheap,,,09/09/2026 21:08
 09a92527-ec91-4ac5-9ee8-b02ecd48062c,egyptian.study,premium,125,125,high,low,8,name.com,,,15/08/2026 19:52
 b3464668-20ff-45cf-81b7-4aa639f0421c,unnoted.study,available,1.98,50.98,medium,low,7,namecheap,,,04/09/2026 21:08
+a216b004-1cc8-4a23-ba62-8a968aa4760f,meyers.study,premium,53.92,53.92,high,low,6,namesilo,,,27/09/2026 20:50
 67d2a9a7-f3e1-4e30-b9b6-1aeff8a6bf2c,bunk.study,premium,65,65,medium,low,4,namecheap,,,03/09/2026 20:32
 f1320381-339c-4476-920a-bc4aa6ad2e0a,karen.study,premium,53.92,53.92,high,low,5,namesilo,,,25/09/2026 08:08
 9c46e2bd-1cb4-4665-9450-5f14ceb50584,stairs.study,premium,53.92,53.92,high,low,6,namesilo,,,
 160137a5-6837-4870-90b7-bc6f2c6a6914,confirming.study,premium,53.92,53.92,high,low,10,namesilo,,,23/09/2026 19:45
-7f55974f-ad8b-4c28-a786-019551c54dc9,swain.study,premium,53.92,53.92,high,low,5,namesilo,,,22/09/2026 21:56
+7f55974f-ad8b-4c28-a786-019551c54dc9,swain.study,premium,53.92,53.92,medium,low,5,namesilo,,,22/09/2026 21:56
 8c6eaa77-ebee-472f-9ad4-293ea2dc342c,operate.study,premium,53.92,53.92,high,low,7,namesilo,,,25/09/2026 06:12
 3589804e-eea1-4a53-8591-579ce4c95168,settings.study,premium,53.92,53.92,medium,low,8,namesilo,,,17/09/2026 13:18
-a1838604-86a2-434d-a755-4906bb74fc66,centimetre.study,available,1.98,50.98,high,low,10,namecheap,,,24/09/2026 13:35
+b4fee496-a777-4600-b5c4-b60eb1677173,stabbed.study,premium,51.95,51.95,low,low,7,spaceship,,,28/09/2026 00:02
+a1838604-86a2-434d-a755-4906bb74fc66,centimetre.study,available,1.98,50.98,medium,low,10,namecheap,,,24/09/2026 13:35
 52c8d948-ea1e-4659-b84f-e5a273c34399,virtuous.study,premium,53.92,53.92,high,low,8,namesilo,,,13/09/2026 06:06
 b521ffb4-510d-4ec0-8b12-8a9d244b7328,descend.study,premium,53.92,53.92,high,low,7,namesilo,,,
 1ffd9fdf-2332-467b-83e9-d0ab93209425,chained.study,premium,53.92,53.92,medium,low,7,namesilo,,,12/08/2026 01:23
 96c01ef0-0344-48a7-aee5-7860e87e133d,primer.study,premium,53.92,53.92,high,low,6,namesilo,,,
 715766ed-21c6-4dd6-bb94-bbe6018f7f82,beet.study,premium,65,65,high,low,4,namecheap,,,23/09/2026 01:49
-64446eda-c645-4a60-bea6-7bc5b36d7640,geocentric.study,premium,53.92,53.92,high,low,10,namesilo,,,18/08/2026 22:16
+64446eda-c645-4a60-bea6-7bc5b36d7640,geocentric.study,premium,53.92,53.92,medium,low,10,namesilo,,,18/08/2026 22:16
 98f0af8d-dcb1-4679-8490-2566e9b90874,subdue.study,premium,53.92,53.92,high,low,6,namesilo,,,11/09/2026 07:44
 09e98e8a-0f10-43af-a313-09a0b9b27fa4,palmate.study,premium,53.92,53.92,medium,low,7,namesilo,,,04/09/2026 23:55
 76240251-46a4-4949-95ff-ed47ad728f95,are.study,premium,625,,high,low,3,name.com,,,
@@ -168,7 +174,7 @@ ff5df06d-abf5-4fe9-bde8-d541c9009053,argentine.study,available,,,high,high,9,,,,
 c6f807e1-85f9-4b7a-993c-88567867aef5,unheaded.study,available,1.98,50.98,medium,low,8,namecheap,,,12/09/2026 12:06
 43eef6ff-23bf-4a4a-b25e-549ad284e9f6,soaking.study,premium,53.92,53.92,medium,low,7,namesilo,,,14/09/2026 14:28
 95724839-57d3-4eaf-bf39-d8a845eb2955,assurance.study,premium,53.92,53.92,high,low,9,namesilo,,,20/09/2026 16:44
-6a9722ef-567a-43ca-a7b1-dd76b6645ea8,chessman.study,available,1.98,50.98,high,low,8,namecheap,,,24/09/2026 14:20
+6a9722ef-567a-43ca-a7b1-dd76b6645ea8,chessman.study,available,1.98,50.98,medium,low,8,namecheap,,,24/09/2026 14:20
 190a2cbe-ab57-46ac-8be9-81185e6cfc74,alleyway.study,premium,53.92,53.92,medium,low,8,namesilo,,,19/09/2026 04:05
 035746db-ea81-4eec-9120-8afaef856741,mazed.study,premium,53.92,53.92,medium,low,5,namesilo,,,07/08/2026 12:07
 360a2669-3c73-41b4-8543-056caed65e56,countless.study,premium,53.92,53.92,high,low,9,namesilo,,,24/09/2026 00:28
@@ -183,10 +189,11 @@ dd88dfeb-d62f-4f06-be3a-30b31b511e26,mashhad.study,premium,125,125,medium,low,7,
 ed634daa-d591-478f-ba2b-add887e67947,creaseless.study,available,1.98,50.98,medium,low,10,namecheap,,,13/08/2026 05:47
 f9c9361e-6532-418e-8d1f-776736902e87,wisdoms.study,premium,53.92,53.92,medium,low,7,namesilo,,,21/09/2026 10:19
 e51add04-5f3f-41a3-8bdd-ac797ad9ee64,chanukah.study,available,2.19,38.99,high,low,8,namesilo,,,
-55303c2a-93ae-45f4-b372-a1c3ba5654c9,arty.study,premium,53.92,53.92,high,low,4,namesilo,,,06/08/2026 23:51
+55303c2a-93ae-45f4-b372-a1c3ba5654c9,arty.study,premium,53.92,53.92,medium,low,4,namesilo,,,06/08/2026 23:51
 290ad77b-9431-4251-aeb1-41ffef608354,proof.study,premium,53.92,53.92,high,medium,5,namesilo,,,23/09/2026 16:02
 e30c4856-5421-4f66-b3e0-c790f878823f,answer.study,premium,250,,high,low,6,name.com,,,
-55dfa441-c126-4f61-a546-ba2a8ca2feda,adobo.study,available,2.19,38.99,high,low,5,namesilo,,,17/09/2026 09:29
+55dfa441-c126-4f61-a546-ba2a8ca2feda,adobo.study,available,2.19,38.99,medium,low,5,namesilo,,,17/09/2026 09:29
+3b231b5a-def0-4deb-98f6-d2b9c7ea5ee1,willoughby.study,premium,51.95,51.95,high,low,10,spaceship,,,28/09/2026 00:32
 abc9b437-a817-49fa-901f-6f485476bc9c,baggage.study,premium,53.92,53.92,high,low,7,namesilo,,,
 a2c91e41-6669-4c33-a8f5-d9a2cc006f1a,balladeer.study,available,2.19,38.99,medium,low,9,namesilo,,,21/09/2026 22:45
 ee5fff69-f755-499f-befd-2fb029d55d66,exacting.study,premium,53.92,53.92,high,low,8,namesilo,,,17/08/2026 15:32
@@ -200,11 +207,11 @@ fba52c57-8032-45e8-bbb8-2de1f701ec40,doris.study,premium,53.92,53.92,high,low,5,
 13706412-b678-4416-a53a-df2144697513,ultimate.study,premium,53.92,53.92,high,low,8,namesilo,,,11/09/2026 22:50
 4d4e9692-6d55-4d61-8008-819ffdfc6c1d,hellenic.study,premium,53.92,53.92,high,low,8,namesilo,,,20/08/2026 17:54
 6291a4c0-78fc-4280-ae94-e335e4663c2f,peasant.study,premium,53.92,53.92,high,low,7,namesilo,,,11/08/2026 07:35
-e0684294-7220-4591-a5d4-b8229d0a2d52,useless.study,premium,53.92,53.92,high,low,7,namesilo,,,
+e0684294-7220-4591-a5d4-b8229d0a2d52,useless.study,premium,53.92,53.92,medium,low,7,namesilo,,,
 8e3e55a4-9167-4161-bee2-60552ea548f6,alarmist.study,premium,53.92,53.92,medium,low,8,namesilo,,,18/09/2026 01:59
 4f30d1aa-024c-43b5-a0aa-3eba4ca3760d,alderman.study,premium,53.92,53.92,medium,low,8,namesilo,,,18/09/2026 04:34
 b098f908-fe1c-485f-8c81-e06c0e9f077e,augmentin.study,available,2.19,38.99,medium,low,9,namesilo,,,18/09/2026 22:59
-e8fbb6e5-a55c-4163-acd0-851a858ab20e,randomly.study,premium,53.92,53.92,high,low,8,namesilo,,,13/09/2026 20:35
+e8fbb6e5-a55c-4163-acd0-851a858ab20e,randomly.study,premium,53.92,53.92,medium,low,8,namesilo,,,13/09/2026 20:35
 192daef6-bea9-4706-b4cd-5975798b92d0,baker.study,premium,650,650,high,low,5,namecheap,,,21/09/2026 20:17
 bd11e431-8e44-4b44-9293-579f5a272964,fluently.study,premium,65,65,high,low,8,namecheap,,,14/09/2026 19:08
 4b79a1fd-3d4d-497e-8537-8e41fe878da3,aquatics.study,premium,53.92,53.92,high,low,8,namesilo,,,19/09/2026 23:08
@@ -218,6 +225,7 @@ bd625769-ee0e-4b53-aac7-9c3f3b6bdd78,tirelessly.study,premium,53.92,53.92,high,l
 ef7e2ae5-95e0-4c65-926f-f77d9eae6d32,seven.study,premium,116,116,high,medium,5,namesilo,,,
 3be2bc29-7f3a-46f2-ac9e-bb5e63a1de08,reputedly.study,premium,53.92,53.92,medium,low,9,namesilo,,,15/09/2026 23:20
 ce1b5d7f-cf15-4251-812b-75c67661fc6e,choices.study,premium,53.92,53.92,high,low,7,namesilo,,,17/09/2026 06:36
+8e7909a5-2946-40a3-b9c0-8f9839abb3de,edition.study,premium,65,65,high,low,7,namecheap,,,28/09/2026 01:49
 b5dc7ffa-551e-4ecc-9262-aa15f4bb5140,dispatching.study,premium,53.92,53.92,high,low,11,namesilo,,,
 e8431d0c-3409-4726-bcf2-ce1979420d8c,machines.study,premium,53.92,53.92,medium,low,8,namesilo,,,27/09/2026 02:01
 d38565c0-5105-46d6-8207-79ffd752a036,equal.study,premium,65,65,high,low,5,namecheap,,,21/09/2026 18:27
@@ -250,14 +258,14 @@ ba8f9b1a-6205-4e07-9aac-9eac2f087ea3,numerical.study,premium,53.92,53.92,high,lo
 c27a22a9-b856-4291-bd3a-12d71e2f0a7b,longest.study,premium,62.5,,high,low,7,name.com,,,
 e4687b21-8a28-4caa-94ff-16654bc6a873,dinar.study,available,1.98,50.98,high,low,5,namecheap,,,18/09/2026 07:02
 9470663b-edc8-4046-842a-f208bacf957c,domed.study,premium,53.92,53.92,high,low,5,namesilo,,,14/08/2026 15:37
-5d6d0109-25bb-42dd-bd9b-2a5f3e5c7473,bannister.study,available,2.19,38.99,high,low,9,namesilo,,,22/09/2026 00:23
+5d6d0109-25bb-42dd-bd9b-2a5f3e5c7473,bannister.study,available,2.19,38.99,medium,low,9,namesilo,,,22/09/2026 00:23
 40ab3675-c812-4143-8882-ac68dec7f932,incredibly.study,premium,53.92,53.92,high,low,10,namesilo,,,14/09/2026 17:21
 b98db3bd-9501-480c-9133-0397d3adbc12,bilsted.study,available,1.98,50.98,medium,low,7,namecheap,,,18/09/2026 20:49
 c865b29b-db42-4212-9f09-bba9a8ad7716,alula.study,available,2.19,38.99,high,low,5,namesilo,,,18/09/2026 15:04
 58dfe801-94d6-47db-9a23-1659b01acb15,kurosawa.study,available,2.19,38.99,medium,low,8,namesilo,,,18/09/2026 00:08
-7b584299-81b7-432b-929a-d238b194bede,aram.study,available,2.19,38.99,high,low,4,namesilo,,,19/09/2026 23:55
+7b584299-81b7-432b-929a-d238b194bede,aram.study,available,2.19,38.99,medium,low,4,namesilo,,,19/09/2026 23:55
 a9ee17c1-98ea-4155-b38a-2a8fd8c95687,barbette.study,available,2.19,38.99,medium,low,8,namesilo,,,22/09/2026 04:54
-637e39d5-98ae-475e-8c66-1f293ee86f84,necessarily.study,premium,53.92,53.92,high,low,11,namesilo,,,
+637e39d5-98ae-475e-8c66-1f293ee86f84,necessarily.study,premium,53.92,53.92,medium,low,11,namesilo,,,
 36ab7b6a-0f0f-466a-a89e-9d215f83cad0,france.study,available,,,high,high,6,,,,
 fd0a7d68-f4c6-4a60-8c75-36c258e466fd,colbert.study,available,1.24,31.28,medium,low,7,spaceship,,,27/09/2026 12:41
 07b1caaa-c3da-42a4-a19b-ec82275d8103,caudal.study,premium,53.92,53.92,high,low,6,namesilo,,,11/08/2026 22:22
@@ -265,7 +273,7 @@ d3b2b2b6-041e-4035-81dd-f9f8b58884fb,auditorium.study,premium,65,65,high,low,10,
 5cea6474-1098-4a13-ae2a-d8701718dfee,actinia.study,available,1.98,50.98,medium,low,7,namecheap,,,17/09/2026 04:43
 4c7280d7-4ac9-4ff4-908b-3ab196ba2997,neuronal.study,premium,53.92,53.92,medium,low,8,namesilo,,,03/09/2026 16:20
 8f702ea6-8428-4c52-af87-eff8e47a777a,ropeway.study,available,1.98,50.98,medium,low,7,namecheap,,,17/09/2026 12:50
-63ea6665-01e0-4e2b-b8f5-11ab84808495,aspirator.study,premium,65,65,high,low,9,namecheap,,,20/09/2026 15:23
+63ea6665-01e0-4e2b-b8f5-11ab84808495,aspirator.study,premium,65,65,medium,low,9,namecheap,,,20/09/2026 15:23
 cc156e5e-1b0e-4350-9ad7-391d78f64b27,knockdown.study,premium,53.92,53.92,medium,low,9,namesilo,,,22/08/2026 16:34
 eebc46fc-6d59-4397-bbf8-cbbe9222fc09,hic.study,premium,625,,high,low,3,name.com,,,
 ac22ca35-7637-49dc-83c5-7e1ac406f8fa,jib.study,premium,640,640,high,low,3,namesilo,,,21/09/2026 22:10
@@ -277,15 +285,15 @@ e6d56937-9626-4cc6-ac52-8ecc1dd4d125,parked.study,premium,53.92,53.92,high,low,6
 cddad696-8a8a-4bec-85db-29ddaf5aba6b,ostensible.study,premium,53.92,53.92,medium,low,10,namesilo,,,04/09/2026 18:29
 127a6bdf-7f49-4ffb-baa4-568a284d20d3,easter.study,premium,53.92,53.92,high,low,6,namesilo,,,24/09/2026 13:11
 8ded8303-c0c6-4552-a963-52e8e8d60e4e,perceptive.study,premium,53.92,53.92,high,low,10,namesilo,,,08/09/2026 16:12
-a8e19fe7-1dce-4f5b-ae12-b816712c194b,grinning.study,premium,53.92,53.92,high,low,8,namesilo,,,
+a8e19fe7-1dce-4f5b-ae12-b816712c194b,grinning.study,premium,55,55,high,low,8,dynadot,,,27/09/2026 23:14
 8d49f788-18af-47ea-a5c5-030be2f7b2c3,drag.study,premium,65,65,high,low,4,namecheap,,,25/09/2026 22:05
 b2689c29-2bcc-45c5-b07b-3df8fe46ff75,champaign.study,premium,65,65,medium,low,9,namecheap,,,08/09/2026 20:30
 808fc955-be4c-4182-aa84-9916b47a0d0a,thankless.study,premium,53.92,53.92,medium,low,9,namesilo,,,11/09/2026 12:28
 02913a9f-13ad-41a2-95e8-e1f6c1e00ad9,wide.study,premium,53.92,53.92,high,low,4,namesilo,,,21/09/2026 16:15
-1f79702d-49dc-453e-a131-2b00277b95a7,amputee.study,available,2.19,38.99,high,low,7,namesilo,,,18/09/2026 23:54
+1f79702d-49dc-453e-a131-2b00277b95a7,amputee.study,available,2.19,38.99,medium,low,7,namesilo,,,18/09/2026 23:54
 fae1e287-0484-41b6-b654-e8b05e7f44ce,upwardly.study,premium,53.92,53.92,medium,low,8,namesilo,,,12/09/2026 22:57
 742f77cb-f5c3-41c8-bd1e-186192786bb1,plaster.study,premium,53.92,53.92,high,low,7,namesilo,,,17/09/2026 07:59
-93bee384-b988-4005-a472-c4054e5efeba,bayesian.study,premium,53.92,53.92,high,low,8,namesilo,,,09/08/2026 03:13
+93bee384-b988-4005-a472-c4054e5efeba,bayesian.study,premium,53.92,53.92,medium,low,8,namesilo,,,09/08/2026 03:13
 21fd64bf-78f0-440f-8081-848019bec76d,unsubtle.study,premium,53.92,53.92,medium,low,8,namesilo,,,12/09/2026 20:46
 eb2e46a5-7ba1-4b60-b5e4-cfa947633f70,thereof.study,premium,53.92,53.92,medium,low,7,namesilo,,,16/09/2026 08:41
 e21a00b1-0e63-4b4d-b6a8-e8f40bdd4e65,epicene.study,available,1.98,50.98,medium,low,7,namecheap,,,12/08/2026 08:38
@@ -311,20 +319,21 @@ e19b2313-d8bc-4079-952e-c406314d7007,browne.study,premium,53.92,53.92,high,low,6
 8f5dca59-264d-4525-ba02-96d5decf7c7f,freewill.study,available,1.98,50.98,high,low,8,namecheap,,,18/08/2026 15:00
 8ae30f78-4ccf-4f9c-ab99-fdcd0f7217e7,bida.study,premium,116,116,medium,low,4,namesilo,,,23/09/2026 13:39
 23b7f193-9dcc-40d0-877a-c56eeefb9543,land.study,premium,65,65,high,low,4,namecheap,,,
-6a2dc06d-d105-4991-a396-2f885c96276c,candied.study,premium,53.92,53.92,high,low,7,namesilo,,,11/08/2026 16:48
+6a2dc06d-d105-4991-a396-2f885c96276c,candied.study,premium,53.92,53.92,medium,low,7,namesilo,,,11/08/2026 16:48
 d54ffd19-2b45-4668-ba3b-21442d5fad7a,tyres.study,available,1.98,50.98,medium,low,5,namecheap,,,20/09/2026 19:00
-17b5dbe5-43ad-483a-89b9-6a4d2ddb8a96,crap.study,premium,53.92,53.92,high,low,4,namesilo,,,
+17b5dbe5-43ad-483a-89b9-6a4d2ddb8a96,crap.study,premium,53.92,53.92,medium,low,4,namesilo,,,
 652e61ff-78ca-43a8-ae7b-68266e611a9b,frayed.study,premium,53.92,53.92,medium,low,6,namesilo,,,18/08/2026 14:25
-e8d6c067-d0b4-4795-bcdb-e812239bc1cd,suitable.study,premium,53.92,53.92,high,low,8,namesilo,,,
+e8d6c067-d0b4-4795-bcdb-e812239bc1cd,suitable.study,premium,65,65,high,low,8,namecheap,,,28/09/2026 01:54
 a2391776-2fce-434b-98e0-6d7489560ff9,ambient.study,premium,53.92,53.92,high,low,7,namesilo,,,
 a6f86c0c-6785-4290-b2e7-b19da5b9ef7a,arawn.study,available,1.98,50.98,medium,low,5,namecheap,,,20/09/2026 00:29
 323f8aa5-c0c1-49ab-b55e-be09cbfe51e7,walton.study,premium,53.92,53.92,high,low,6,namesilo,,,25/09/2026 05:07
 9ee691ed-ff87-48fa-9e5b-2378b6dcb100,prolonged.study,premium,53.92,53.92,high,low,9,namesilo,,,14/08/2026 18:34
 3b1b0b12-fd13-4fb2-87e3-793685bf0bed,months.study,premium,65,65,high,low,6,namecheap,,,25/09/2026 18:02
+92f9fb30-07f2-4af9-9e0a-1b566872598a,cried.study,premium,55,55,medium,low,5,dynadot,,,27/09/2026 23:35
 e8150f5d-b50b-4928-b240-bc22c8db134c,excavate.study,premium,53.92,53.92,high,low,8,namesilo,,,21/08/2026 10:33
 a002ae03-4ea5-428f-8bd3-c8b7d0b11fb9,argonauta.study,available,2.19,38.99,medium,low,9,namesilo,,,20/09/2026 04:32
-4ab9f691-d938-49b7-9f41-9e7d3eadd938,gallican.study,available,1.98,50.98,high,low,8,namecheap,,,18/08/2026 19:40
-58db0652-0b52-4c3b-930e-0368257f014f,penetration.study,premium,53.92,53.92,high,low,11,namesilo,,,08/09/2026 15:09
+4ab9f691-d938-49b7-9f41-9e7d3eadd938,gallican.study,available,1.98,50.98,medium,low,8,namecheap,,,18/08/2026 19:40
+58db0652-0b52-4c3b-930e-0368257f014f,penetration.study,premium,53.92,53.92,medium,low,11,namesilo,,,08/09/2026 15:09
 5ac91519-81c2-4c52-a1d8-7d6a007a00e0,unstrung.study,premium,53.92,53.92,medium,low,8,namesilo,,,12/09/2026 20:39
 650bae3f-ed48-43bc-8108-c1f333bfa3a9,cake.study,premium,53.92,53.92,high,low,4,namesilo,,,27/09/2026 02:19
 3e25fd12-74b3-46c4-8ee1-85822251cda0,yes.study,premium,640,640,high,medium,3,namesilo,,,17/09/2026 05:24
@@ -332,16 +341,16 @@ a002ae03-4ea5-428f-8bd3-c8b7d0b11fb9,argonauta.study,available,2.19,38.99,medium
 dc8fbb14-74ff-4706-bd64-38074580e11d,semantic.study,premium,53.92,53.92,high,low,8,namesilo,,,10/09/2026 02:16
 e737b8c1-e7bf-43dd-ac1b-c0c26ceed054,cursive.study,premium,53.92,53.92,high,low,7,namesilo,,,13/08/2026 11:36
 7cf48304-77c6-4811-8674-29e65f4e73b2,barometric.study,premium,62.5,62.5,medium,low,10,name.com,,,08/08/2026 20:06
-843304bd-9fb7-45b0-aa91-d84ed59c526f,dessert.study,premium,53.92,53.92,high,low,7,namesilo,,,25/09/2026 10:39
+843304bd-9fb7-45b0-aa91-d84ed59c526f,dessert.study,premium,51.95,51.95,high,low,7,spaceship,,,28/09/2026 02:48
 3debcbaf-e0c9-46e0-9b49-a9c7b961de30,upraised.study,premium,53.92,53.92,medium,low,8,namesilo,,,23/08/2026 01:53
-0fa67e30-b523-434c-9458-1eee662cab75,bloomington.study,premium,53.92,53.92,high,low,11,namesilo,,,27/09/2026 08:15
+0fa67e30-b523-434c-9458-1eee662cab75,bloomington.study,premium,53.92,53.92,medium,low,11,namesilo,,,27/09/2026 08:15
 052cf013-138d-407b-8016-f030cff8d5bb,shut.study,premium,53.92,53.92,high,low,4,namesilo,,,12/08/2026 12:10
 fbb17277-7742-4477-81cb-5cd3480afe4e,scatty.study,available,1.98,50.98,medium,low,6,namecheap,,,
 29995725-97e2-4d24-8513-aa5b9652b5be,clammy.study,premium,53.92,53.92,medium,low,6,namesilo,,,12/08/2026 09:23
 4a93145f-67c8-4d52-bdad-70204c434858,kinsey.study,premium,53.92,53.92,high,low,6,namesilo,,,18/09/2026 06:26
 13c8cd9d-cd06-4ad5-984a-862492ad6cc9,establishments.study,premium,53.92,53.92,low,low,14,namesilo,,,
 0031f6d3-577d-476a-9034-9dba7d1ba7b9,stratified.study,premium,53.92,53.92,medium,low,10,namesilo,,,09/08/2026 06:36
-fce019d9-ab29-4b18-adaf-dc99687a2056,accrual.study,premium,53.92,53.92,high,low,7,namesilo,,,16/09/2026 23:14
+fce019d9-ab29-4b18-adaf-dc99687a2056,accrual.study,premium,53.92,53.92,medium,low,7,namesilo,,,16/09/2026 23:14
 d4a5e18c-edae-4e70-b2fc-201c86bae6c1,information.study,premium,640,640,high,low,11,namesilo,,,27/09/2026 01:46
 accf387b-835e-49be-9348-a9d79906cda3,scupper.study,available,2.19,38.99,medium,low,7,namesilo,,,18/09/2026 17:30
 c55c7b9a-8ac8-48e1-aa6a-9b299016ef57,vaulting.study,premium,53.92,53.92,high,low,8,namesilo,,,04/09/2026 21:34
@@ -364,6 +373,7 @@ df4ba32e-997a-497e-9c78-841f821a4493,cacophony.study,premium,53.92,53.92,medium,
 521d6bfc-233d-4500-a0d5-e8710da6223a,sword.study,premium,53.92,53.92,high,low,5,namesilo,,,25/09/2026 10:46
 85a73070-b14c-4afa-af94-ad552a0fcb7d,alertly.study,premium,53.92,53.92,medium,low,7,namesilo,,,13/09/2026 18:40
 0a77bc9b-a34a-4a13-8bb2-7ddeb88e8583,backstage.study,premium,53.92,53.92,high,low,9,namesilo,,,08/08/2026 06:18
+881e0884-1cc5-4050-bb02-4e8d225a433c,marcia.study,premium,53.92,53.92,high,low,6,namesilo,,,28/09/2026 03:56
 2fa59454-6413-4383-bf29-0384ee946a0b,statistics.study,premium,6250,,high,low,10,name.com,,,
 408a738a-74a2-4380-b78e-92e969a35be1,uracil.study,premium,53.92,53.92,medium,low,6,namesilo,,,11/09/2026 22:36
 6635b1d4-00a9-4288-bf0f-2a0852969d3e,trouble.study,premium,53.92,53.92,high,low,7,namesilo,,,24/09/2026 07:29
@@ -372,7 +382,7 @@ a075f5ac-e26e-4083-968c-0efed763f232,huisache.study,available,1.98,50.98,medium,
 474a9cbb-d342-4f30-bb67-54c1069ac8e5,transfer.study,premium,650,650,high,low,8,namecheap,,,19/09/2026 03:42
 d99db479-2728-4d1c-9756-e2836e2de462,scour.study,premium,53.92,53.92,high,low,5,namesilo,,,10/09/2026 00:23
 df3ffc03-5d49-4ca2-a7aa-6a03472c3ccb,ament.study,available,1.98,50.98,medium,low,5,namecheap,,,18/09/2026 18:57
-03047f73-1809-4356-9815-adbc118ade94,weirdo.study,premium,53.92,53.92,high,low,6,namesilo,,,13/08/2026 05:38
+03047f73-1809-4356-9815-adbc118ade94,weirdo.study,premium,53.92,53.92,medium,low,6,namesilo,,,13/08/2026 05:38
 59adf01e-74a4-483b-a8b1-3f13b90597f4,reality.study,premium,242,242,high,low,7,namesilo,,,26/09/2026 00:09
 e8088f1e-adcf-45d2-820d-5bf7cfcaa330,triplet.study,premium,53.92,53.92,medium,low,7,namesilo,,,
 791a0bd4-7d3e-4117-91f3-11ebb2a1d472,anne.study,premium,53.92,53.92,high,low,4,namesilo,,,19/09/2026 10:11
@@ -383,8 +393,10 @@ a05a9dee-410a-4ffe-830e-cf3724eedd63,begins.study,premium,53.92,53.92,medium,low
 1e5d2578-054a-48a8-8077-d76af002a3bc,docket.study,premium,53.92,53.92,high,low,6,namesilo,,,17/09/2026 17:03
 9e4d83a6-489e-47bc-ae32-052578903ae1,vicarious.study,premium,53.92,53.92,medium,low,9,namesilo,,,13/09/2026 05:15
 4acc4a90-4e40-4399-acc7-64292523f9df,acknowledge.study,premium,62.5,,high,low,11,name.com,,,
+161b1e17-3adf-4d07-9280-78c233e659b6,toby.study,premium,53.92,53.92,high,low,4,namesilo,,,28/09/2026 03:08
 adcb9125-bfe2-4c1d-a6d4-fcb46755e186,hospitably.study,premium,53.92,53.92,medium,low,10,namesilo,,,15/09/2026 01:10
-e3c7d5e7-7e79-49f5-96a2-55c578b4e298,stuck.study,premium,53.92,53.92,medium,low,5,namesilo,,,
+e3c7d5e7-7e79-49f5-96a2-55c578b4e298,stuck.study,premium,51.95,51.95,medium,low,5,spaceship,,,28/09/2026 01:42
+2e7b276d-a5f2-48e4-b868-e41b2af10dab,preacher.study,premium,51.95,51.95,high,low,8,spaceship,,,27/09/2026 15:23
 83a29131-2773-471c-8303-668f79da70ed,demure.study,premium,53.92,53.92,high,low,6,namesilo,,,13/08/2026 04:10
 105f02e2-0dda-4593-9e2f-bedb12c22886,hussein.study,available,1.99,50.99,medium,low,7,name.com,,,25/09/2026 07:40
 db3c3d79-f255-40a4-b444-66c9896766e5,electricity.study,premium,65,65,high,low,11,namecheap,,,
@@ -393,23 +405,24 @@ dd735da9-9ba6-4d2e-8b68-d14d830e9c59,dreamlike.study,premium,53.92,53.92,high,lo
 5ffc05de-d919-4efd-b3ae-9648ff8c96aa,ellen.study,premium,53.92,53.92,high,low,5,namesilo,,,
 b63fbeb7-4d1d-49be-9501-b4fa697f30bd,woolly.study,premium,53.92,53.92,high,low,6,namesilo,,,18/08/2026 08:40
 6e55d492-2bb5-460a-8759-470ceadf1e03,invidious.study,premium,53.92,53.92,medium,low,9,namesilo,,,22/08/2026 09:04
-b6aa4f75-99d0-4ba6-95af-a6d2afcf7588,newer.study,premium,53.92,53.92,high,low,5,namesilo,,,18/09/2026 15:53
+b6aa4f75-99d0-4ba6-95af-a6d2afcf7588,newer.study,premium,53.92,53.92,medium,low,5,namesilo,,,18/09/2026 15:53
 1b428bb9-e883-4f52-8de4-e1742c70ebf0,bahrain.study,available,,,high,high,7,,,,
 84ab8a23-d68e-406c-bb3a-54e811be02fa,betoken.study,premium,53.92,53.92,medium,low,7,namesilo,,,21/09/2026 03:31
 27e7fffb-bd45-4a5c-86c2-9e2d2e6c046e,packer.study,premium,242,242,high,low,6,namesilo,,,21/09/2026 15:45
 b20afeb1-99a4-41c1-ab6d-aeb6636b49d4,cooling.study,premium,53.92,53.92,high,low,7,namesilo,,,12/08/2026 05:28
 fc324d06-26f7-47b5-a70b-678e9ca07334,arthropoda.study,available,2.19,38.99,high,low,10,namesilo,,,20/09/2026 10:41
 47c7f433-b5b8-482f-884b-0ae02cf13794,sate.study,premium,53.92,53.92,medium,low,4,namesilo,,,09/09/2026 14:30
-65487b4d-3a03-43d2-a8d7-1b564417e004,erasable.study,premium,53.92,53.92,high,low,8,namesilo,,,15/08/2026 14:16
+65487b4d-3a03-43d2-a8d7-1b564417e004,erasable.study,premium,53.92,53.92,medium,low,8,namesilo,,,15/08/2026 14:16
 77fac6a4-24e4-48f8-8c59-24dfe8158126,swagman.study,available,1.98,50.98,medium,low,7,namecheap,,,11/09/2026 05:01
 5f5566bf-591a-4478-9a53-17fc2ec1772b,duodecimal.study,available,1.98,50.98,medium,low,10,namecheap,,,14/08/2026 21:19
 f5e54649-db06-4132-ac74-83de62f5c849,breakfasts.study,premium,53.92,53.92,medium,low,10,namesilo,,,20/09/2026 13:21
-9ae6add2-c302-48e1-bdd2-5fe1b0f2b2b6,overgrown.study,premium,53.92,53.92,high,low,9,namesilo,,,04/09/2026 20:42
+9ae6add2-c302-48e1-bdd2-5fe1b0f2b2b6,overgrown.study,premium,53.92,53.92,medium,low,9,namesilo,,,04/09/2026 20:42
 0cfefefc-fa81-49ad-b675-952e7d8b61d3,layered.study,premium,53.92,53.92,high,low,7,namesilo,,,22/08/2026 21:32
 1ae6cc61-c8a3-40b5-ae08-019be98e2971,sleekly.study,premium,53.92,53.92,medium,low,7,namesilo,,,16/09/2026 02:30
 6d4de423-ebec-4962-9b1e-c091f2007812,proactive.study,available,2.19,38.99,high,low,9,namesilo,,,27/09/2026 06:56
 902cc38b-0679-43de-975e-b2a03fbc5c48,cooper.study,premium,53.92,53.92,high,low,6,namesilo,,,22/09/2026 08:17
 3afa8975-35b9-467d-b0e8-0f0f89390930,squinch.study,available,1.98,50.98,medium,low,7,namecheap,,,10/09/2026 17:51
+ca258aa7-ce7d-4289-8a71-4c09c01c108a,graveyard.study,premium,53.92,53.92,high,low,9,namesilo,,,28/09/2026 01:14
 df5e2b78-dde6-4a18-b45d-0b4f5bc49bfe,ilama.study,available,1.98,50.98,medium,low,5,namecheap,,,19/09/2026 10:33
 5e650dfc-a66f-4bff-af40-a016c482009a,birches.study,premium,65,65,medium,low,7,namecheap,,,20/09/2026 07:32
 e7864d5f-0ffd-473f-bbdf-172659df73ae,invitation.study,premium,53.92,53.92,high,low,10,namesilo,,,
@@ -420,7 +433,7 @@ da982994-8ff5-4005-9756-a2a8e507ff4d,lilting.study,premium,53.92,53.92,high,low,
 c8ce5974-58c3-4076-9509-3ec06133563c,scrawny.study,premium,53.92,53.92,medium,low,7,namesilo,,,09/09/2026 23:42
 0fd0744c-6f3c-4034-a608-213f1b535c2f,bruxelles.study,premium,65,65,high,low,9,namecheap,,,23/09/2026 04:57
 c527c2b6-7d83-440f-bd7a-e2229c063097,fresh.study,premium,116,116,high,medium,5,namesilo,,,23/09/2026 01:54
-abf23d9c-19e8-432c-90f7-d24c43af7c44,bathhouse.study,available,2.19,38.99,high,low,9,namesilo,,,22/09/2026 13:35
+abf23d9c-19e8-432c-90f7-d24c43af7c44,bathhouse.study,available,2.19,38.99,medium,low,9,namesilo,,,22/09/2026 13:35
 09347127-1dc0-4f78-88b9-dcbbabad2420,grid.study,premium,650,650,high,medium,4,namecheap,,,24/09/2026 17:52
 86d67231-7175-4c8d-a98f-5e177adbd601,first.study,premium,640,640,high,medium,5,namesilo,,,21/09/2026 12:11
 944d9ea6-1b7f-45da-8996-4256b48e3a2d,maldon.study,available,1.98,50.98,medium,low,6,namecheap,,,22/09/2026 15:25
@@ -428,7 +441,7 @@ c01b8eda-d50e-4399-965f-90f90b9418b6,customs.study,premium,53.92,53.92,high,low,
 bf171d25-9290-44d5-ac09-7ee47d361dba,aragonite.study,available,1.98,50.98,medium,low,9,namecheap,,,19/09/2026 23:43
 4841e883-a309-4dda-a0a6-bf4e6408eaa4,rigel.study,premium,65,65,medium,low,5,namecheap,,,23/09/2026 10:56
 a1dfc128-4990-4cdb-9f81-c87e955bbb98,attractor.study,premium,53.92,53.92,high,low,9,namesilo,,,21/09/2026 02:12
-8346c7a9-0291-4dc0-b782-3f41827cf6c7,kigali.study,premium,116,116,high,low,6,namesilo,,,24/09/2026 12:21
+8346c7a9-0291-4dc0-b782-3f41827cf6c7,kigali.study,premium,116,116,medium,low,6,namesilo,,,24/09/2026 12:21
 570e67c0-1ad1-43cd-8ea9-c0ff7a79bc5c,simulation.study,premium,53.92,53.92,high,low,10,namesilo,,,25/09/2026 02:48
 c77f7fd0-455b-4706-afd1-af5b5fb824c6,tremulous.study,premium,53.92,53.92,medium,low,9,namesilo,,,09/09/2026 07:46
 76308a62-f82c-43a1-b4c4-54c0a9005882,oaken.study,premium,53.92,53.92,medium,low,5,namesilo,,,03/09/2026 23:26
@@ -453,7 +466,7 @@ cd6f8b65-e278-40bd-b758-974fa691be68,areca.study,available,1.99,50.99,medium,low
 bbb50b7f-1436-4c65-83cd-950c14f096f2,hacking.study,premium,65,65,high,low,7,namecheap,,,25/09/2026 04:38
 cdb0cee6-9307-473a-a258-8abb3434753f,sunburst.study,available,50.98,,high,low,8,namecheap,,,
 aa278141-4922-4f98-8128-0c791d5afae0,felted.study,premium,53.92,53.92,medium,low,6,namesilo,,,18/08/2026 01:00
-b65611b0-abec-4c21-bd74-4dd6a0f71a12,firm.study,premium,53.92,53.92,high,low,4,namesilo,,,25/09/2026 10:46
+b65611b0-abec-4c21-bd74-4dd6a0f71a12,firm.study,premium,65,65,high,low,4,namecheap,,,28/09/2026 03:17
 70a1e0fc-8625-42f1-ab59-19f14065318d,ackack.study,available,1.98,50.98,medium,low,7,namecheap,,,
 f24fe3b6-d026-49cb-84c4-f4cf0fae00ce,miniscule.study,premium,53.92,53.92,medium,low,9,namesilo,,,24/08/2026 23:55
 dda8ab66-3798-41fd-9f6b-4e69fc2bbbbb,earlier.study,premium,53.92,53.92,high,low,7,namesilo,,,24/09/2026 12:52
@@ -494,21 +507,21 @@ f651672f-fc97-472f-85ba-c74e9c01bef4,veggie.study,premium,650,650,high,low,6,nam
 2a3a23fb-9ee7-45f4-882b-85cc0e2d4989,aberrant.study,premium,53.92,53.92,high,low,8,namesilo,,,
 d1ddf1c4-1e40-44fc-b80d-0858b9c38abe,supposed.study,premium,65,65,high,low,8,namecheap,,,23/09/2026 20:34
 bb018b4b-b72a-4d6a-83e2-24f5bce1d145,unspent.study,premium,53.92,53.92,medium,low,7,namesilo,,,12/09/2026 09:36
-7b66a546-d761-4df7-a843-948197a6f3c3,lapse.study,premium,62.5,,high,low,5,name.com,,,
+7b66a546-d761-4df7-a843-948197a6f3c3,lapse.study,premium,53.92,53.92,high,low,5,namesilo,,,27/09/2026 14:20
 84d25a98-a695-42c1-b389-ee9b17156748,etiolate.study,available,1.98,50.98,medium,low,8,namecheap,,,17/08/2026 13:53
 f888c4f5-77fa-4bbc-8ba2-4bd6b0defa65,pitching.study,premium,53.92,53.92,high,low,8,namesilo,,,
 9fe3c47f-6034-429c-a0ff-8c3c3d99902a,tow.study,premium,625,,high,low,3,name.com,,,
-8fe50ada-0b1a-4e6b-926e-0797a2a23ff0,throughout.study,premium,53.92,53.92,high,low,10,namesilo,,,17/08/2026 00:49
+8fe50ada-0b1a-4e6b-926e-0797a2a23ff0,throughout.study,premium,53.92,53.92,medium,low,10,namesilo,,,17/08/2026 00:49
 5fba03e0-fff2-4846-8e6b-7cb7482c5d17,fabulous.study,premium,62.5,62.5,high,low,8,name.com,,,17/08/2026 20:07
 3386e7e2-5f91-4f63-9008-3ac7e7c66b68,flexible.study,premium,1300,1300,high,low,8,namecheap,,,23/09/2026 18:12
-3c0873f0-a922-4e29-bb8f-5f839a6ceeb3,backhoe.study,available,2.19,38.99,high,low,7,namesilo,,,21/09/2026 15:37
+3c0873f0-a922-4e29-bb8f-5f839a6ceeb3,backhoe.study,available,2.19,38.99,medium,low,7,namesilo,,,21/09/2026 15:37
 3295869f-aca9-44ab-a555-4ea266d8667b,geriatric.study,premium,53.92,53.92,medium,low,9,namesilo,,,18/08/2026 22:42
 e4f3f7fb-da5e-48f6-b81c-034b204211b0,encased.study,premium,62.5,62.5,medium,low,7,name.com,,,11/08/2026 20:06
 613c1458-a44b-40c5-a88f-945e2e64386c,lego.study,available,44.98,,high,high,4,namecheap,,,
 30323b19-2420-4574-b704-4765d9d64687,beamish.study,available,1.98,50.98,medium,low,7,namecheap,,,09/08/2026 04:08
 c93d1efd-fda8-48c9-8852-66972c98f3c0,propulsive.study,available,1.98,50.98,high,low,10,namecheap,,,09/09/2026 03:32
 7f16941a-25e2-4442-a36d-24fc92dd5123,aquarius.study,premium,53.92,53.92,high,low,8,namesilo,,,19/09/2026 23:03
-01668ac0-f8de-444b-89e4-1ae51c9ccff5,xxii.study,available,2.19,38.99,high,low,4,namesilo,,,21/09/2026 12:40
+01668ac0-f8de-444b-89e4-1ae51c9ccff5,xxii.study,available,2.19,38.99,medium,low,4,namesilo,,,21/09/2026 12:40
 1256a061-f4eb-4f9f-80ed-7562a880d336,unheralded.study,premium,53.92,53.92,medium,low,10,namesilo,,,12/09/2026 00:42
 97e30f54-a7a3-4a1d-bab6-8d99d56eecc2,glad.study,premium,65,65,high,low,4,namecheap,,,22/09/2026 18:28
 4f61e364-b2f6-4431-9fee-58900e2b5420,cuddly.study,premium,53.92,53.92,high,low,6,namesilo,,,13/08/2026 10:11
@@ -518,6 +531,7 @@ c93d1efd-fda8-48c9-8852-66972c98f3c0,propulsive.study,available,1.98,50.98,high,
 d7d079cf-c7d9-4154-9fd7-3a3105e3a5ed,colouring.study,available,1.98,50.98,high,low,9,namecheap,,,12/08/2026 17:33
 0e0cf477-e3fb-42d6-9fad-b998f4058820,scandium.study,premium,53.92,53.92,medium,low,8,namesilo,,,20/09/2026 22:34
 ca3679d1-407d-43a7-b24b-f8227b989d37,stormbound.study,premium,65,65,low,low,10,namecheap,,,10/09/2026 21:22
+7fff3d14-7e4e-4892-9c4a-4115fb39f0b8,larkin.study,premium,53.92,53.92,high,low,6,namesilo,,,27/09/2026 23:26
 d1601cb1-a01a-4107-8e25-6f94a679fa22,asa.study,premium,640,640,high,low,3,namesilo,,,25/09/2026 12:30
 699d6287-6f1d-41e3-85db-a5410ef211f7,anopheles.study,available,2.19,38.99,medium,low,9,namesilo,,,19/09/2026 11:39
 8f3e5c0e-e7ef-4544-91ca-35c896053214,baas.study,available,1.98,50.98,high,low,4,namecheap,,,21/09/2026 12:09
@@ -528,6 +542,7 @@ c2315d0c-070b-492f-91f8-c5426459653f,reactive.study,premium,53.92,53.92,high,low
 386c071f-903f-48c2-8c9b-42e6bfade0fa,punitory.study,available,1.98,50.98,high,medium,8,namecheap,,,09/09/2026 06:03
 0e38ebbf-bad8-4dc2-8752-d0a0053c2069,alton.study,premium,53.92,53.92,high,low,5,namesilo,,,27/09/2026 07:13
 ab355902-5f88-43e8-994e-34ca3c2d642e,privileged.study,premium,53.92,53.92,high,low,10,namesilo,,,27/09/2026 06:20
+62bc3dc8-d00c-41bb-bdfd-80337cfd1bdb,lightning.study,premium,53.92,53.92,high,medium,9,namesilo,,,27/09/2026 14:47
 ffe9ba3e-7998-4fd7-a32f-21355bcb6eb2,responds.study,premium,53.92,53.92,medium,low,8,namesilo,,,20/09/2026 08:24
 472e9056-244f-4aa0-9908-3735c642c632,blonde.study,premium,53.92,53.92,high,low,6,namesilo,,,22/09/2026 22:17
 66e095a7-ae1d-420b-945d-5a7fe85f360a,alcea.study,available,2.19,38.99,medium,low,5,namesilo,,,18/09/2026 03:52
@@ -537,10 +552,10 @@ ffe9ba3e-7998-4fd7-a32f-21355bcb6eb2,responds.study,premium,53.92,53.92,medium,l
 38b76551-97e3-4c71-af31-b25330968a71,avionics.study,premium,53.92,53.92,high,low,8,namesilo,,,21/09/2026 09:35
 28f5b8c2-dcd7-4394-bc07-e739811f84a2,deformity.study,premium,65,65,medium,low,9,namecheap,,,24/09/2026 21:21
 4b995d01-0184-43db-b91e-c2bc234c5855,potter.study,premium,65,65,high,low,6,namecheap,,,27/09/2026 12:23
-98baa8dc-04de-4f6c-abc7-5006b41f216c,aleutian.study,premium,53.92,53.92,high,low,8,namesilo,,,
+98baa8dc-04de-4f6c-abc7-5006b41f216c,aleutian.study,premium,53.92,53.92,medium,low,8,namesilo,,,
 de667a34-84a2-4efc-abfb-77c722bd8dfd,straggly.study,available,1.98,50.98,high,medium,8,namecheap,,,09/09/2026 10:04
 3fba6e93-4c23-4823-92d5-77f1d286b234,organismic.study,premium,65,65,medium,low,10,namecheap,,,04/09/2026 17:49
-06407a0a-3382-4055-adb9-85b286617656,domain.study,premium,242,242,high,medium,6,namesilo,,,25/09/2026 14:42
+06407a0a-3382-4055-adb9-85b286617656,domain.study,premium,242,242,high,medium,6,namesilo,,,28/09/2026 02:54
 a977858a-5d7a-4bc5-8f31-1151ce994cd5,sheathed.study,available,1.98,50.98,high,medium,8,namecheap,,,10/09/2026 06:12
 01d0b0ef-cbe6-43fc-867d-633a161ca234,thermionic.study,premium,53.92,53.92,medium,low,10,namesilo,,,11/09/2026 12:56
 003207e5-ce88-48a4-9775-be050f39b1dd,dads.study,premium,242,242,high,low,4,namesilo,,,20/09/2026 10:27
@@ -548,6 +563,7 @@ efc8e44d-fdcc-4e97-b6d1-9c01e7079325,resort.study,premium,53.92,53.92,high,low,6
 2108c991-317c-4230-8398-59478ab190d4,haply.study,premium,53.92,53.92,medium,low,5,namesilo,,,14/09/2026 04:36
 cf6c5f14-c2db-4db3-a27b-ce82607efee2,gull.study,premium,53.92,53.92,high,low,4,namesilo,,,12/08/2026 15:08
 8852f56c-6b8f-4d9b-aecc-c227f62e221f,stealthily.study,premium,65,65,medium,low,10,namecheap,,,16/09/2026 06:59
+c243a080-db0e-4cae-a572-22e3a097dd1e,innovator.study,available,1.24,31.28,high,low,9,spaceship,,,28/09/2026 02:49
 9e58c3ca-c66b-46f2-9132-77218c48b937,communal.study,premium,53.92,53.92,high,low,8,namesilo,,,23/09/2026 16:10
 f622dbbc-1e7f-461f-ab63-02b6869adbd6,aden.study,premium,53.92,53.92,medium,low,4,namesilo,,,17/09/2026 07:22
 5144fcac-0a94-4c91-8a57-0e7823e7a810,telescopic.study,premium,53.92,53.92,medium,low,10,namesilo,,,11/09/2026 10:24
@@ -556,7 +572,7 @@ c8359db5-6d4c-4862-9205-b7345a969e7e,ranked.study,premium,62.5,62.5,high,low,6,n
 dd970f6f-ede4-4090-8dc1-6a26f7eb0bfc,moustaches.study,available,2.19,38.99,medium,low,10,namesilo,,,20/09/2026 09:53
 bc5f1044-441d-4861-9bdc-c4b2d8718f88,main.study,premium,640,640,high,low,4,namesilo,,,23/09/2026 09:34
 f451c7d7-f763-4a8d-aa9e-a0848d345806,officer.study,premium,53.92,53.92,high,low,7,namesilo,,,25/09/2026 09:25
-e19f89f9-e7df-46e8-9b00-4b6f5be4b983,turnabout.study,premium,53.92,53.92,high,low,10,namesilo,,,
+e19f89f9-e7df-46e8-9b00-4b6f5be4b983,turnabout.study,premium,53.92,53.92,medium,low,10,namesilo,,,
 764f7ec8-4d33-4a4b-b492-5c70cf37665a,comfortably.study,premium,53.92,53.92,high,low,11,namesilo,,,
 ffd3c1ca-0d27-4460-b751-d766b38a9e79,bellwether.study,premium,53.92,53.92,high,low,10,namesilo,,,23/09/2026 06:30
 af6817ef-a86a-4cf8-a643-6ed0ad441d9c,ebonics.study,available,2.19,38.99,medium,low,7,namesilo,,,16/09/2026 13:39
@@ -564,7 +580,7 @@ af6817ef-a86a-4cf8-a643-6ed0ad441d9c,ebonics.study,available,2.19,38.99,medium,l
 854c401f-77d6-41c2-b284-83e12542240c,pardon.study,premium,53.92,53.92,high,low,6,namesilo,,,
 d360d789-26a2-4ca3-9564-0b68f1f8a3f3,malay.study,premium,625,625,high,low,5,name.com,,,24/08/2026 13:42
 1d13230d-a610-401d-819d-507214e3bf78,rally.study,premium,1300,1300,high,medium,5,namecheap,,,21/09/2026 19:55
-e6c5d754-cfcf-46d9-91ab-46619f9c69ec,scrubbed.study,premium,53.92,53.92,high,low,8,namesilo,,,
+e6c5d754-cfcf-46d9-91ab-46619f9c69ec,scrubbed.study,premium,51.95,51.95,medium,low,8,spaceship,,,27/09/2026 18:56
 9d6994bc-29d0-4d06-be41-3ef50b75d25d,axseed.study,available,2.19,38.99,medium,low,6,namesilo,,,21/09/2026 10:31
 0bcc8396-91c2-4cc8-9843-b5f6cb7c5a74,biform.study,available,1.98,50.98,medium,low,6,namecheap,,,09/08/2026 20:07
 44ef2e5f-3dfc-4a05-b4ba-8070f0431dba,magic.study,premium,625,625,high,high,5,name.com,,,24/08/2026 12:58
@@ -577,17 +593,17 @@ edb6a499-e98f-4a7c-85cb-de6956919b03,fiddling.study,premium,53.92,53.92,medium,l
 6db3a919-9c40-424c-8e9f-452e9b5e2096,biaxial.study,premium,62.5,62.5,medium,low,7,name.com,,,09/08/2026 18:44
 41f702ca-e7b2-4ea1-ae51-5eb1df4c4da1,actually.study,premium,53.92,53.92,high,low,8,namesilo,,,
 b5a774e2-80cc-47bf-8deb-48be74e3facc,arcanum.study,available,2.19,38.99,high,low,7,namesilo,,,20/09/2026 01:37
-56b5fb4d-2321-41dd-a314-440dcd0a649c,thoracic.study,premium,53.92,53.92,high,low,8,namesilo,,,08/09/2026 12:02
+56b5fb4d-2321-41dd-a314-440dcd0a649c,thoracic.study,premium,53.92,53.92,medium,low,8,namesilo,,,08/09/2026 12:02
 cb091a1e-7903-4532-b297-ed494ffbac10,lachrymose.study,premium,53.92,53.92,medium,low,10,namesilo,,,14/08/2026 15:34
 ee0f9acb-1599-4e27-94ee-45bad23e6f21,beers.study,premium,53.92,53.92,medium,low,5,namesilo,,,27/09/2026 10:55
 eed2409b-a2d0-41f2-a518-954bc3e34473,terrorist.study,premium,53.92,53.92,medium,low,9,namesilo,,,25/09/2026 10:50
-4c64ab28-cc59-4db8-9384-b3683b59f75e,banish.study,premium,53.92,53.92,high,low,6,namesilo,,,24/09/2026 01:57
+4c64ab28-cc59-4db8-9384-b3683b59f75e,banish.study,premium,53.92,53.92,medium,low,6,namesilo,,,24/09/2026 01:57
 ca227d54-fa27-4d69-ba2b-a5816d41d594,pursued.study,premium,53.92,53.92,high,medium,7,namesilo,,,09/09/2026 06:26
 f28258d3-f96f-4bcc-9ffc-a0516d3457c2,unearthly.study,premium,53.92,53.92,medium,low,9,namesilo,,,16/08/2026 02:28
 33f7ee49-4274-4d07-89df-51e69ad345ca,unrepaired.study,available,1.98,50.98,medium,low,10,namecheap,,,12/09/2026 18:17
 a0b105ce-1c7c-4795-904b-6d3f55e5b60c,sayonara.study,available,2.19,38.99,high,low,8,namesilo,,,17/09/2026 08:15
 93a9e5dc-663f-4e4d-b044-f0394e9ca34b,deepen.study,premium,53.92,53.92,high,low,6,namesilo,,,12/08/2026 19:32
-d806459f-79c4-4b4e-a8cb-1904abc76840,andorran.study,available,1.98,50.98,high,low,8,namecheap,,,
+d806459f-79c4-4b4e-a8cb-1904abc76840,andorran.study,available,1.98,50.98,medium,low,8,namecheap,,,
 fc6ca2dc-e822-45d6-8765-a4adb7b04d37,importance.study,premium,62.5,,high,low,10,name.com,,,
 c897cba5-bb80-4c6a-baff-2dae634accd4,eminent.study,premium,53.92,53.92,high,low,7,namesilo,,,16/08/2026 15:06
 c8783455-3f5d-451a-9f1b-8124d65092ea,hepworth.study,available,1.98,50.98,medium,low,8,namecheap,,,22/09/2026 04:23
@@ -595,7 +611,7 @@ c8783455-3f5d-451a-9f1b-8124d65092ea,hepworth.study,available,1.98,50.98,medium,
 43ac9921-dc6f-4f39-b6b6-310d239359ab,nab.study,premium,640,640,high,medium,3,namesilo,,,20/09/2026 09:04
 1d6487ff-9ed0-465b-99be-b49c0d2dc05c,clathrate.study,available,1.98,50.98,medium,low,9,namecheap,,,11/08/2026 16:23
 6c83fd4c-3a05-4a66-aaf4-3f488002cfa2,gaussian.study,premium,62.5,62.5,high,low,8,name.com,,,18/08/2026 20:52
-e08531be-567d-4e90-b21b-0a5185bf43d4,paton.study,available,1.98,50.98,high,low,5,namecheap,,,18/09/2026 01:46
+e08531be-567d-4e90-b21b-0a5185bf43d4,paton.study,available,1.98,50.98,medium,low,5,namecheap,,,18/09/2026 01:46
 41b82a5d-ed9e-4c01-a75d-68faacaae337,killers.study,premium,53.92,53.92,medium,low,7,namesilo,,,27/09/2026 11:04
 ff4569a9-3ff6-4362-8699-38c5fa5efc2f,eyestrain.study,available,2.19,38.99,medium,low,9,namesilo,,,20/09/2026 17:21
 5d670b3d-b69b-48da-a057-e530165fbc8f,cxl.study,available,,,high,low,3,,,,
@@ -659,32 +675,34 @@ ec693210-b84a-4611-9875-e99d9256cfa6,acheson.study,available,1.98,50.98,medium,l
 02bd8724-a980-4cef-8b4f-1a82ef8fb7de,blende.study,available,2.19,38.99,medium,low,6,namesilo,,,24/09/2026 05:43
 5520f7b4-f90a-44e2-bbb2-5fb4957352d7,card.study,premium,53.92,53.92,high,medium,4,namesilo,,,
 4bb258d4-fc1c-4f2e-8b5a-ec2ee2e8779e,eleven.study,premium,53.92,53.92,high,low,6,namesilo,,,21/09/2026 11:20
-0b3a9cb0-1a46-4622-bf8e-4366b02e2d3b,akko.study,available,2.19,38.99,high,low,4,namesilo,,,16/09/2026 22:23
-6b32d06d-f4e6-4758-8ee7-f3d66d2a37d3,greasy.study,premium,62.5,62.5,high,low,6,name.com,,,20/08/2026 19:35
+0b3a9cb0-1a46-4622-bf8e-4366b02e2d3b,akko.study,available,2.19,38.99,medium,low,4,namesilo,,,16/09/2026 22:23
+6b32d06d-f4e6-4758-8ee7-f3d66d2a37d3,greasy.study,premium,62.5,62.5,medium,low,6,name.com,,,20/08/2026 19:35
 13bc9298-b5ea-4fdc-b94d-f565fefd82cc,annelid.study,premium,53.92,53.92,medium,low,7,namesilo,,,
 ae4a4c38-444c-44cb-a723-790c7bf8c85b,saturday.study,premium,625,,high,low,8,name.com,,,
-c1f7848d-be64-4d41-9222-c1a9bc7f6015,brooding.study,premium,53.92,53.92,high,low,8,namesilo,,,11/08/2026 05:52
+c1f7848d-be64-4d41-9222-c1a9bc7f6015,brooding.study,premium,53.92,53.92,medium,low,8,namesilo,,,11/08/2026 05:52
 3fcb22e5-2c0e-4bff-9817-15c33a461796,threefold.study,premium,53.92,53.92,high,low,9,namesilo,,,14/08/2026 16:42
 527ebbe0-988f-4d1c-999e-5b0f80218305,holding.study,premium,53.92,53.92,high,low,7,namesilo,,,
 a5e1af84-1bc4-4082-874b-38be10eaf6df,scant.study,premium,53.92,53.92,medium,low,5,namesilo,,,09/09/2026 22:36
-29ceb675-d130-46f5-95a0-7f94f49a4db3,shooting.study,premium,625,,high,low,8,name.com,,,
+29ceb675-d130-46f5-95a0-7f94f49a4db3,shooting.study,premium,517.7,517.7,high,low,8,spaceship,,,27/09/2026 21:17
 a2d704a2-4102-4c48-9648-0ed09fbef037,ian.study,premium,650,650,high,low,3,namecheap,,,25/09/2026 13:39
 d717b227-84e1-4367-8a0a-0a79e5e0859c,lawrence.study,premium,53.92,53.92,high,low,8,namesilo,,,25/09/2026 04:32
 dd99f092-3a14-42e3-bb92-e703f9623f8c,papillary.study,premium,53.92,53.92,medium,low,9,namesilo,,,05/09/2026 01:21
 1769294c-267e-45ed-af01-4542c9018208,practically.study,premium,53.92,53.92,high,low,11,namesilo,,,25/09/2026 11:39
 8217cbbe-1b33-42c4-a08c-f6a5fd4313af,motors.study,premium,65,65,medium,low,6,namecheap,,,21/09/2026 01:16
-8e7a1602-e749-4899-8d35-4aa3194ceec7,retarded.study,premium,62.5,,high,low,8,name.com,,,
+8e7a1602-e749-4899-8d35-4aa3194ceec7,retarded.study,premium,51.95,51.95,medium,low,8,spaceship,,,27/09/2026 13:11
 71a18436-7908-452f-8fa1-41b34019496c,numerable.study,premium,53.92,53.92,medium,low,9,namesilo,,,13/08/2026 03:32
 440898bf-0603-49d7-92db-3e7dfea59692,purr.study,premium,65,65,high,low,4,namecheap,,,23/09/2026 20:53
 c54a39e5-27cd-4a51-a5e9-e4e21bc126b0,ossified.study,premium,53.92,53.92,medium,low,8,namesilo,,,18/08/2026 13:15
 11396e8a-7688-4a16-b199-f210c2e0d542,ashlar.study,available,2.19,38.99,high,low,6,namesilo,,,20/09/2026 13:55
+8fb85d45-d77e-4029-af02-9a05a667bb20,pageant.study,premium,130,130,high,low,7,namecheap,,,28/09/2026 02:36
 524248ad-5d4a-4d1a-92cc-eeb7a2ae1fec,quintette.study,available,1.98,50.98,medium,low,9,namecheap,,,09/09/2026 09:00
 0db50c61-8bd6-4ee8-ac80-40534add7d55,battleship.study,premium,65,65,high,low,10,namecheap,,,22/09/2026 16:29
 f481cd02-ebb5-4f83-bfc7-e8ae2f5cb2fe,draconian.study,premium,62.5,62.5,medium,low,9,name.com,,,14/08/2026 18:10
 8c325dca-222b-402b-ae90-c304ed77e841,mesmeric.study,premium,62.5,62.5,medium,low,8,name.com,,,24/08/2026 21:13
+47eaaad1-f85e-47f5-8254-2bb5df88c200,survival.study,premium,51.95,51.95,high,low,8,spaceship,,,27/09/2026 14:56
 64e94fa8-8268-40f6-8dd9-c82d6cff3d87,spoof.study,premium,116,116,high,low,5,namesilo,,,23/09/2026 11:26
 4b01498a-37e2-45e0-8acd-ac727ef395c7,convene.study,premium,53.92,53.92,high,low,7,namesilo,,,
-a994a406-885b-4e0d-83e5-7e9fa133321d,fading.study,premium,53.92,53.92,high,low,6,namesilo,,,21/09/2026 01:33
+a994a406-885b-4e0d-83e5-7e9fa133321d,fading.study,premium,53.92,53.92,medium,low,6,namesilo,,,21/09/2026 01:33
 c727e122-e530-433c-95b4-e67a8f973983,tamely.study,premium,53.92,53.92,medium,low,6,namesilo,,,16/09/2026 07:53
 1b3dfb55-6dcf-445b-95b7-88b03c41365e,colorize.study,available,1.98,50.98,medium,low,8,namecheap,,,12/08/2026 17:34
 04967fcd-968a-4c10-b5cb-c8d014465a73,staggering.study,premium,65,65,medium,low,10,namecheap,,,10/09/2026 18:08
@@ -731,7 +749,7 @@ df4595e2-c33f-44e8-b22c-dad6752d0ba9,pyrenees.study,available,2.19,38.99,high,lo
 fced5e3e-5aba-4b9b-8fe0-3f51549b2778,coy.study,premium,640,640,high,low,3,namesilo,,,24/09/2026 01:10
 b6b81a50-f751-4fbe-89a4-7239a6568489,whimsy.study,premium,53.92,53.92,high,low,6,namesilo,,,20/09/2026 00:42
 de3d65a1-053f-4f44-abd0-52ffe10d9254,raptorial.study,premium,53.92,53.92,high,medium,9,namesilo,,,09/09/2026 10:23
-cdf51557-22ac-4f73-b6fd-efe827b02d3b,suspect.study,premium,53.92,53.92,high,low,7,namesilo,,,
+cdf51557-22ac-4f73-b6fd-efe827b02d3b,suspect.study,premium,53.92,53.92,high,low,7,namesilo,,,28/09/2026 02:06
 2d626be5-38c7-44f5-b519-8314aec130d0,mogul.study,available,2.19,38.99,high,low,5,namesilo,,,23/09/2026 14:17
 9a2d0304-edae-4fbb-8494-a5292d451cc8,nanus.study,available,1.98,50.98,medium,low,5,namecheap,,,24/08/2026 22:32
 f5f0bf45-ad44-438f-bd78-c53ff4dac52a,orchis.study,premium,65,65,medium,low,6,namecheap,,,21/09/2026 23:07
@@ -746,6 +764,7 @@ c3666981-9076-4c65-aa06-dacbaa8d1bcd,skyway.study,premium,53.92,53.92,high,low,6
 d70c327d-bf8c-4376-81da-09fdd74dec3d,speaker.study,premium,116,116,high,low,7,namesilo,,,
 f1f53e2d-c5d9-4897-91bc-ff533bc51ee0,plump.study,premium,53.92,53.92,high,low,5,namesilo,,,12/08/2026 07:35
 3be0c938-14ad-4794-927b-77f78a0ec31f,tusked.study,available,1.98,50.98,medium,low,6,namecheap,,,11/09/2026 21:29
+bca45c43-22e7-47ae-a636-99c0f583711b,sandra.study,premium,53.92,53.92,high,low,6,namesilo,,,27/09/2026 22:38
 a3246aad-151f-4a73-8b87-60f61c9709bb,laughing.study,premium,53.92,53.92,high,low,8,namesilo,,,25/09/2026 16:41
 e7099984-8e72-461b-90a2-68130be389bc,overblown.study,premium,65,65,medium,low,9,namecheap,,,04/09/2026 20:19
 82c6543a-f7af-4ac0-8f00-870a4cd30507,actinic.study,premium,53.92,53.92,medium,low,7,namesilo,,,
@@ -756,7 +775,7 @@ e498bcec-95ee-4f3c-b00a-b10f2c2b516b,single.study,premium,1107,1107,high,low,6,n
 a798303f-63dd-44c1-a502-b899cb679acf,frictional.study,premium,53.92,53.92,medium,low,10,namesilo,,,18/08/2026 15:28
 c0b37c76-9039-4d1f-b136-5855fe8666b6,absent.study,premium,53.92,53.92,high,low,6,namesilo,,,21/09/2026 14:37
 0131af66-92ff-4b6d-95ad-c6d6464f919b,trousers.study,premium,53.92,53.92,high,low,8,namesilo,,,
-50814fd5-e7e9-4b6a-9147-0d00a5603f33,congruous.study,premium,53.92,53.92,high,low,9,namesilo,,,12/08/2026 21:56
+50814fd5-e7e9-4b6a-9147-0d00a5603f33,congruous.study,premium,53.92,53.92,medium,low,9,namesilo,,,12/08/2026 21:56
 523545ea-82c6-48c4-bb3e-8b7705c4f6f5,peckish.study,available,1.98,50.98,medium,low,7,namecheap,,,22/08/2026 10:23
 448de502-6c4d-4271-8456-6bcaf97b9dab,primes.study,premium,53.92,53.92,medium,low,6,namesilo,,,20/09/2026 11:21
 09204cd5-4e27-49ab-b635-a6cae727294e,sid.study,premium,640,640,high,low,3,namesilo,,,25/09/2026 12:52
@@ -767,6 +786,7 @@ acd00f66-49bc-4c3e-8c28-05daf5d5f948,temp.study,premium,53.92,53.92,high,low,4,n
 e92b275f-2d45-47a0-9065-27d9c71b1de6,nagging.study,premium,53.92,53.92,medium,low,7,namesilo,,,03/09/2026 12:41
 933b9695-81e7-4005-b25e-311096d842a0,migrator.study,available,1.98,50.98,medium,low,8,namecheap,,,24/08/2026 22:51
 282bc43b-343f-470b-ab62-766d50ed08eb,sedate.study,premium,62.5,62.5,high,low,6,name.com,,,20/08/2026 18:40
+d4a5971c-1366-4f6c-8847-569c076216bb,benito.study,available,1.54,31.41,medium,low,6,porkbun,,,27/09/2026 19:23
 1a8a04c5-6478-445e-9308-5e71dc18feca,bontemps.study,available,2.19,38.99,high,low,8,namesilo,,,20/09/2026 08:07
 8929a2cf-556f-4ade-8ebc-99bf5554fb70,damage.study,premium,53.92,53.92,high,low,6,namesilo,,,25/09/2026 04:36
 00051b48-016b-4dea-abed-0a616f0055c3,albatross.study,premium,65,65,high,low,9,namecheap,,,18/09/2026 02:28
@@ -819,16 +839,17 @@ fa4584f0-c38a-4887-a010-4eb229e69f81,handle.study,premium,53.92,53.92,high,low,6
 026049b7-3317-486a-b830-a2c0e5f41188,billed.study,premium,62.5,62.5,high,low,6,name.com,,,09/08/2026 21:23
 f7e5c881-f521-453e-8e21-0f17afa07797,stain.study,premium,53.92,53.92,high,low,5,namesilo,,,25/09/2026 16:55
 f0ee4bd5-520b-427b-9625-3cd26fdcf8f8,passive.study,premium,53.92,53.92,high,low,7,namesilo,,,27/09/2026 02:56
-a4a46924-8b22-4d8b-8758-5d0322ca6c61,tripping.study,premium,53.92,53.92,high,low,8,namesilo,,,23/08/2026 05:23
+a4a46924-8b22-4d8b-8758-5d0322ca6c61,tripping.study,premium,53.92,53.92,medium,low,8,namesilo,,,23/08/2026 05:23
+081a94d5-1dfd-4d3a-aa8d-5d221f0f23c7,macleod.study,available,2.19,38.99,medium,low,7,namesilo,,,28/09/2026 02:12
 07552d5a-2afa-4b4c-8083-cea7894ff46f,lactic.study,available,1.98,50.98,medium,low,6,namecheap,,,04/09/2026 08:23
 af1c63c1-f9da-4a80-9df7-e59230becbb7,bracing.study,premium,53.92,53.92,high,low,7,namesilo,,,11/08/2026 00:30
 b84ee8dc-d423-4f46-8863-3bca385b4e85,blacksmith.study,premium,260,260,high,low,10,namecheap,,,24/09/2026 03:09
 e5589036-acad-4c1f-b26b-b12856ea12ae,genuinely.study,premium,53.92,53.92,high,low,9,namesilo,,,
 96ae28be-314f-4e21-8871-563864acf20d,abyssal.study,available,1.98,50.98,medium,low,7,namecheap,,,
 af7f20f2-b15a-4d7f-b432-7842210f710c,semiliquid.study,available,1.98,50.98,medium,low,10,namecheap,,,10/09/2026 03:07
-a7af60b7-08ba-476e-849d-df27ea4157d4,restrain.study,premium,53.92,53.92,high,low,8,namesilo,,,
+a7af60b7-08ba-476e-849d-df27ea4157d4,restrain.study,premium,53.92,53.92,medium,low,8,namesilo,,,
 5d0db28c-e50d-4eaf-8220-19843cd9a816,algol.study,premium,53.92,53.92,medium,low,5,namesilo,,,18/09/2026 07:05
-e66ae3cf-af1f-449b-bae7-f445ec07f73b,acadia.study,premium,62.5,62.5,high,low,6,name.com,,,16/09/2026 20:28
+e66ae3cf-af1f-449b-bae7-f445ec07f73b,acadia.study,premium,62.5,62.5,medium,low,6,name.com,,,16/09/2026 20:28
 01a5c819-c8a2-443b-beb3-eedb5bdd6280,nemesis.study,premium,53.92,53.92,high,low,7,namesilo,,,22/09/2026 01:42
 731d5f06-d25c-4e8e-ad2f-31c84416817e,discoid.study,premium,53.92,53.92,medium,low,7,namesilo,,,14/08/2026 09:38
 7df5aed3-6576-4cea-bb95-9080a0deead0,aback.study,premium,53.92,53.92,high,low,5,namesilo,,,13/09/2026 16:07
@@ -866,7 +887,7 @@ daa423be-3102-4d73-b3ce-7bf3d1b3918a,acetyl.study,available,2.19,38.99,medium,lo
 79addfef-3ff8-4015-98b5-58e1cffa8659,windward.study,premium,53.92,53.92,high,low,8,namesilo,,,13/09/2026 12:22
 7b061bc4-4cb8-4bf2-83f3-0bca9a5b0118,latin.study,premium,625,625,high,low,5,name.com,,,22/08/2026 20:39
 7a36d74e-43e5-43af-9fc3-372c7ca2df5c,victorious.study,premium,116,116,high,low,10,namesilo,,,13/09/2026 05:28
-64d8c551-d202-45f8-ab76-75b426bc2b45,stretched.study,premium,53.92,53.92,high,low,9,namesilo,,,10/09/2026 22:34
+64d8c551-d202-45f8-ab76-75b426bc2b45,stretched.study,premium,53.92,53.92,medium,low,9,namesilo,,,10/09/2026 22:34
 5ab2b9d8-dd2f-428f-83bd-798cfa7fb5b9,perfectly.study,premium,53.92,53.92,high,low,9,namesilo,,,
 7da6b66c-0d73-4720-a171-2972e663490c,pays.study,premium,65,65,medium,low,4,namecheap,,,25/09/2026 17:21
 9f0c3fbb-1543-4043-b09e-7075763a47fe,generation.study,premium,53.92,53.92,high,low,10,namesilo,,,24/09/2026 16:15
@@ -874,7 +895,7 @@ daa423be-3102-4d73-b3ce-7bf3d1b3918a,acetyl.study,available,2.19,38.99,medium,lo
 c4f4923e-6b49-4a6d-b57d-a7eb84eba255,helical.study,premium,53.92,53.92,medium,low,7,namesilo,,,12/08/2026 16:11
 bbf70a08-90ce-4c60-a520-b41cb7ed9545,floyd.study,premium,65,65,high,low,5,namecheap,,,25/09/2026 19:20
 5511ffd7-47dc-4b57-96c4-c27e4c295aa4,falter.study,premium,53.92,53.92,high,low,6,namesilo,,,17/08/2026 21:39
-f418cf46-05e9-43e5-88ed-fdd04e576b5c,perforation.study,premium,62.5,,high,low,11,name.com,,,
+f418cf46-05e9-43e5-88ed-fdd04e576b5c,perforation.study,premium,62.5,,medium,low,11,name.com,,,
 f4838da0-0e62-48dd-bd1a-bf6bf47b0534,unbeaten.study,premium,53.92,53.92,high,low,8,namesilo,,,12/09/2026 01:45
 6bfa0594-3260-4fd5-bb06-89963dbdb6ad,arrowhead.study,premium,53.92,53.92,high,low,9,namesilo,,,20/09/2026 09:30
 7ff8e57f-2428-4b9c-b33b-e462dc9b9d21,gratified.study,premium,62.5,62.5,high,low,9,name.com,,,20/08/2026 18:24
@@ -900,6 +921,7 @@ e64f5c90-ab71-4018-b035-ad2d10721ae2,motivated.study,premium,53.92,53.92,high,lo
 d9812c63-dd52-4b5b-a1ea-132280090d11,sloppy.study,premium,53.92,53.92,high,low,6,namesilo,,,08/08/2026 08:22
 830e5376-6fd0-461d-8c61-78a9a1b50f50,trifid.study,available,1.98,50.98,medium,low,6,namecheap,,,11/09/2026 19:33
 0dbe7211-faec-4086-b5a6-df8b04bd7fb3,callous.study,premium,53.92,53.92,medium,low,7,namesilo,,,11/08/2026 14:30
+debd4265-2779-400c-8bfe-52b3ff1841e1,farewell.study,premium,51.95,51.95,high,low,8,spaceship,,,28/09/2026 01:53
 63328a59-ad21-432c-973d-e7678a37bae0,abe.study,premium,640,640,high,low,3,namesilo,,,25/09/2026 11:28
 7399fbd6-6bb9-41ad-8e16-03cf31a8d2a4,selective.study,premium,53.92,53.92,high,low,9,namesilo,,,10/09/2026 01:58
 88c60710-1dba-4e77-98b2-7c776a10cbf3,pinnate.study,premium,65,65,high,medium,7,namecheap,,,08/09/2026 19:48
@@ -910,7 +932,7 @@ fef522ec-df3e-4ffe-b08d-0090da657bd5,product.study,premium,53.92,53.92,high,medi
 b4229477-97fe-426e-b808-6243587ed00e,cresson.study,available,1.98,50.98,medium,low,7,namecheap,,,13/08/2026 06:16
 55b3800c-49d5-4179-b67e-21e2ee90ce8d,embodied.study,premium,53.92,53.92,high,low,8,namesilo,,,16/08/2026 09:35
 f0ac7e8e-79f4-4efc-977e-50d293481e2f,spruce.study,premium,62.5,62.5,high,low,6,name.com,,,13/08/2026 17:37
-ba9f3aeb-80e3-452d-8147-445b6c167d73,aftershock.study,premium,53.92,53.92,high,low,10,namesilo,,,17/09/2026 15:51
+ba9f3aeb-80e3-452d-8147-445b6c167d73,aftershock.study,premium,53.92,53.92,medium,low,10,namesilo,,,17/09/2026 15:51
 a3d08658-7335-4c9e-a8b1-d00c94ed486f,monied.study,available,1.98,50.98,high,low,6,namecheap,,,25/08/2026 04:39
 c35c5f9f-7ff8-45a6-aca8-b64cf6da35a8,braced.study,premium,53.92,53.92,medium,low,6,namesilo,,,11/08/2026 00:17
 bbdd7642-f2ec-459d-8623-82fa984a05c1,advertent.study,available,1.98,50.98,medium,low,9,namecheap,,,
@@ -921,13 +943,13 @@ fc5406bf-cc20-49e9-90fa-3f4ed4470396,definition.study,premium,53.92,53.92,high,l
 93ac5ee7-62f4-4167-80c4-7f26f39c9613,approving.study,premium,53.92,53.92,medium,low,9,namesilo,,,06/08/2026 08:49
 e03d4b83-259a-4f42-baf0-4a821d7dc6dc,ambiguous.study,premium,53.92,53.92,high,low,9,namesilo,,,
 c0a2c078-77ee-4e2c-b830-fb15e9e9e6c8,youthful.study,premium,53.92,53.92,high,low,8,namesilo,,,13/09/2026 04:18
-2cb3251c-4189-4542-afb4-1a71430eaade,springbok.study,available,2.19,38.99,high,low,9,namesilo,,,19/09/2026 14:19
+2cb3251c-4189-4542-afb4-1a71430eaade,springbok.study,available,2.19,38.99,medium,low,9,namesilo,,,19/09/2026 14:19
 ef51dc40-b6b4-4520-ad1f-03f95e131d31,leather.study,premium,53.92,53.92,high,low,7,namesilo,,,
 88d5b5d6-b68c-4a60-bdaa-3818531add50,illegalize.study,available,1.98,50.98,medium,low,10,namecheap,,,04/09/2026 19:26
 e1461dd3-c765-4dcc-9f36-b9fec88b8ac6,achievable.study,premium,53.92,53.92,high,low,10,namesilo,,,21/09/2026 15:42
 a4276dea-4ade-4855-8df9-e5d8a16235c6,preparing.study,premium,65,65,high,low,9,namecheap,,,27/09/2026 06:40
 aaf4016d-7c3d-4a43-8bd2-c8a5e342edde,causing.study,premium,65,65,high,low,7,namecheap,,,24/09/2026 13:13
-2f147ad7-768c-43cb-946c-c56ca4c4f617,successful.study,premium,53.92,53.92,high,low,10,namesilo,,,
+2f147ad7-768c-43cb-946c-c56ca4c4f617,successful.study,premium,51.95,51.95,high,low,10,spaceship,,,28/09/2026 01:49
 859850c7-8c66-44ab-9787-111e032aa87b,painted.study,premium,53.92,53.92,high,low,7,namesilo,,,25/09/2026 23:19
 1099ea41-99a1-4b6e-961b-dc0229962e9d,abductor.study,premium,53.92,53.92,medium,low,8,namesilo,,,16/09/2026 14:54
 11d87670-021b-4519-82f3-83b21ed6bfb4,anopia.study,available,2.19,38.99,medium,low,6,namesilo,,,19/09/2026 11:39
@@ -958,7 +980,7 @@ f49ff8be-035a-455c-900c-d8c2175edcc0,bosnia.study,available,2.19,38.99,high,low,
 7a34d6af-9058-405d-b5fc-ef746ff21e83,biter.study,premium,53.92,53.92,medium,low,5,namesilo,,,23/09/2026 22:27
 87968e66-9722-478c-9a27-fb3410ec9827,trifle.study,premium,53.92,53.92,high,low,6,namesilo,,,13/09/2026 08:07
 781caf7b-e8b2-408a-a6c4-de0a79087b17,pare.study,premium,65,65,high,low,4,namecheap,,,11/09/2026 20:00
-2268a7b2-07f1-4aea-8719-b9679f9bc534,fitter.study,premium,53.92,53.92,high,low,6,namesilo,,,18/08/2026 05:48
+2268a7b2-07f1-4aea-8719-b9679f9bc534,fitter.study,premium,53.92,53.92,medium,low,6,namesilo,,,18/08/2026 05:48
 5f0bd90a-ac3d-4838-8928-0f6bc5747c53,agrippa.study,available,1.98,50.98,medium,low,7,namecheap,,,17/09/2026 19:32
 f107fe86-fb3d-49b3-9ad9-77ff7f5f5151,unsorted.study,premium,53.92,53.92,medium,low,8,namesilo,,,12/09/2026 04:50
 f5cd6ea2-77ee-45bc-a022-6465440239bb,alcott.study,premium,53.92,53.92,high,low,6,namesilo,,,18/09/2026 04:10
@@ -977,25 +999,3 @@ e3c420c3-5e10-4a16-828b-9577e83bfd8b,pack.study,premium,53.92,53.92,high,low,4,n
 6e2fdc16-e0b8-4047-ad18-6f4b7f37a141,apples.study,premium,62.5,62.5,high,low,6,name.com,,,18/09/2026 14:01
 62883404-a78d-4c5f-bdea-0283620de131,fitness.study,available,,,high,low,7,,,,
 d3c54524-238a-40fe-8526-29db031e2221,choirs.study,premium,65,65,medium,low,6,namecheap,,,17/09/2026 06:51
-73ae8dff-18f2-437a-8d36-ade0f9e70e00,tapered.study,premium,53.92,53.92,medium,low,7,namesilo,,,03/09/2026 13:29
-efe32804-094f-41a8-aa75-c91feedfafe2,engulf.study,available,1.98,50.98,medium,low,6,namecheap,,,10/09/2026 19:51
-384b59d4-4795-4e96-87d5-f08c983985eb,changing.study,premium,53.92,53.92,high,low,8,namesilo,,,23/09/2026 13:46
-0b257964-eb48-49a2-ba96-70a352d58cc9,willow.study,premium,53.92,53.92,high,low,6,namesilo,,,
-dd991086-c02d-4452-9dee-e0743e9f3913,reflexes.study,premium,53.92,53.92,medium,low,8,namesilo,,,19/09/2026 23:46
-fef05c30-f271-4108-bc9e-d7ff2e081309,agrimony.study,premium,65,65,medium,low,8,namecheap,,,17/09/2026 19:30
-35d3566f-b772-41d9-83a2-64eca73c3efb,aswan.study,available,1.98,50.98,medium,low,5,namecheap,,,20/09/2026 16:34
-363f987b-81f9-44e3-af5a-bd6a206bf352,amoxil.study,available,2.19,38.99,medium,low,6,namesilo,,,18/09/2026 22:54
-556feef5-6a5a-483d-a180-b7a7dea3b8ac,hazel.study,premium,53.92,53.92,high,low,5,namesilo,,,21/08/2026 01:45
-f8ec2129-42cc-4667-a697-651a574e1885,separation.study,premium,53.92,53.92,high,low,10,namesilo,,,
-4a2dfb6c-ae00-483c-b9f7-ca21b777703d,severed.study,premium,62.5,62.5,medium,low,7,name.com,,,13/08/2026 12:32
-1a065f49-b408-4413-b331-3f4a65446657,roosevelt.study,premium,53.92,53.92,high,low,9,namesilo,,,19/09/2026 09:58
-6f515355-1c77-4029-94bc-7d02085af301,casey.study,premium,65,65,high,low,5,namecheap,,,25/09/2026 18:12
-70c29c2c-e2f1-4ba9-904f-1d5e0a1144fd,unready.study,premium,65,65,medium,low,7,namecheap,,,12/09/2026 17:53
-3747f125-d602-4c53-9714-b04565977ac5,weary.study,premium,116,116,high,low,5,namesilo,,,22/09/2026 15:10
-17b6eb67-e8d7-4162-8175-c6da094da407,auxin.study,premium,65,65,medium,low,5,namecheap,,,21/09/2026 08:33
-61f3d5eb-c43b-4db4-99b8-e2899114fa2e,tao.study,premium,625,625,high,low,3,name.com,,,11/09/2026 08:13
-5455d589-34ea-444b-b708-649b4e174f23,knockout.study,premium,53.92,53.92,high,low,8,namesilo,,,22/08/2026 16:37
-6106cf77-8893-486c-a9c1-e89d8db7ff43,finds.study,premium,53.92,53.92,high,low,5,namesilo,,,18/09/2026 15:38
-e51fc523-e770-4fed-8bdf-3759fe630b92,weighty.study,premium,53.92,53.92,medium,low,7,namesilo,,,12/08/2026 15:37
-06cc403e-e285-46b3-a55f-dcc8bf88dbc7,bobtail.study,available,1.98,50.98,high,low,7,namecheap,,,10/08/2026 16:39
-868a4768-bc35-45f0-82fe-55d4d8db5ad3,rigorous.study,premium,53.92,53.92,high,low,8,namesilo,,,
